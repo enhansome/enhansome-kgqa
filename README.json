@@ -72,7 +72,7 @@
             "last_commit": "2025-02-11T14:23:01Z",
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4386
+            "stars": 4387
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-04-14T21:16:25Z",
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10736
+            "stars": 10738
           }
         },
         {
@@ -282,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:58:29.709Z",
+    "last_updated": "2026-08-13T22:00:55.017Z",
     "original_repository": "BshoterJ/awesome-kgqa",
     "original_repository_sha": "a4bca167a8da0f687f989c858381c01c8e0236b7",
     "enhanced_repository": "enhansome/enhansome-kgqa",
