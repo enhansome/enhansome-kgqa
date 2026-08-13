@@ -1,0 +1,292 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": ":star: (2019.7)Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs",
+      "items": [],
+      "title": "Survey of KGQA"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "COLING 2018-The APVA-TURBO Approach To Question Answering in Knowledge Base",
+          "description": "smile:[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-05T03:04:15Z",
+            "owner": "wavewangyue",
+            "repo": "kbqa",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SEMANTICS 2017-SPARQL as a Foreign Language",
+          "description": "smile:[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-05-20T16:31:20Z",
+            "owner": "LiberAI",
+            "repo": "NSpM",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IJCAI 2018-Commonsense Knowledge Aware Conversation Generation with Graph Attention",
+          "description": "smile:[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-10-18T06:52:23Z",
+            "owner": "tuxchow",
+            "repo": "ccm",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Methods based on seq2seq"
+    },
+    {
+      "description": ":star: Awesome knowledge graph\n:star: A demo of KGQA for movies (python2.7 jena)\n:star: A trial of kbqa based on bert for NLPCC2016/2017 Task 5(BERT python3 tensorflow)\n:star: CCKS2019 CKBQA评测获得第四名解决方案(BERT python3 keras-bert)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Agricultural Knowledge Graph",
+          "description": "(python3 neo4j)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-11T14:23:01Z",
+            "owner": "qq547276542",
+            "repo": "Agriculture_KnowledgeGraph",
+            "stars": 4386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stock-knowledge-graph",
+          "description": "(Neo4j)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-23T15:26:02Z",
+            "owner": "lemonhu",
+            "repo": "stock-knowledge-graph",
+            "stars": 2170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KGQA for The Stones",
+          "description": "(neo4j)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-04-23T13:24:43Z",
+            "owner": "chizhu",
+            "repo": "KGQA_HLM",
+            "stars": 1337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A tutorial and implement of disease centered Medical knowledge graph and qa system based on it",
+          "description": "(python3 neo4j)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-06T05:52:54Z",
+            "owner": "SimmerChan",
+            "repo": "KG-demo-for-movie",
+            "stars": 1330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recommend system for douban based on KG",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-30T09:24:07Z",
+            "owner": "mattzheng",
+            "repo": "DouBanRecommend",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KGQA for Jay Zhou's songs",
+          "description": "(python3 apache-jena-fuseki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-12T14:29:01Z",
+            "owner": "zhangtao-seu",
+            "repo": "Jay_KG",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entity-Linking",
+          "description": "(Solr)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-17T08:33:04Z",
+            "owner": "Junshuai-Song",
+            "repo": "Entity-Linking",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLPCC-ICCPOL shared task \"Open Domain Question Answering",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-10-05T11:41:02Z",
+            "owner": "soloice",
+            "repo": "QA-System",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "Open source projects"
+    },
+    {
+      "description": ":star: OpenKG: A community of Chinese KGQA\n:star: OpenKE: An Open-source Framework for Knowledge Embedding",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mapping a variable-length sentence to a fixed-length vector using BERT model",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-23T10:33:43Z",
+            "owner": "jina-ai",
+            "repo": "clip-as-service",
+            "stars": 12834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Annotation tool: doccano",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T21:16:25Z",
+            "owner": "doccano",
+            "repo": "doccano",
+            "stars": 10736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow",
+          "description": ", NER paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-10T11:52:49Z",
+            "owner": "thunlp",
+            "repo": "OpenNRE",
+            "stars": 4472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepDive: a system to extract value from dark data",
+          "description": ", Homepage, Papers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-06-09T05:49:44Z",
+            "owner": "HazyResearch",
+            "repo": "deepdive",
+            "stars": 1979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Useful tools & lecture related to data science(中文)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-24T01:13:19Z",
+            "owner": "BrambleXu",
+            "repo": "knowledge-graph-learning",
+            "stars": 778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A KBQA system based on DBpedia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-07-20T01:38:38Z",
+            "owner": "pkumod",
+            "repo": "gAnswer",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLPCC-MH 中文多跳问答数据集",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-10-08T08:18:26Z",
+            "owner": "wavewangyue",
+            "repo": "NLPCC-MH",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:58:29.709Z",
+    "original_repository": "BshoterJ/awesome-kgqa",
+    "original_repository_sha": "a4bca167a8da0f687f989c858381c01c8e0236b7",
+    "enhanced_repository": "enhansome/enhansome-kgqa",
+    "enhanced_repository_description": null,
+    "title": "Awesome-knowledge-graph-question-answering with stars"
+  }
+}
