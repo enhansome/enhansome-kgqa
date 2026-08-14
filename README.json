@@ -72,7 +72,7 @@
             "last_commit": "2025-02-11T14:23:01Z",
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4387
+            "stars": 4384
           }
         },
         {
@@ -86,7 +86,7 @@
             "last_commit": "2020-07-23T15:26:02Z",
             "owner": "lemonhu",
             "repo": "stock-knowledge-graph",
-            "stars": 2170
+            "stars": 2168
           }
         },
         {
@@ -100,7 +100,7 @@
             "last_commit": "2019-04-23T13:24:43Z",
             "owner": "chizhu",
             "repo": "KGQA_HLM",
-            "stars": 1337
+            "stars": 1334
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2017-10-05T11:41:02Z",
             "owner": "soloice",
             "repo": "QA-System",
-            "stars": 45
+            "stars": 44
           }
         }
       ],
@@ -204,7 +204,7 @@
             "last_commit": "2026-04-14T21:16:25Z",
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10738
+            "stars": 10740
           }
         },
         {
@@ -218,7 +218,7 @@
             "last_commit": "2024-01-10T11:52:49Z",
             "owner": "thunlp",
             "repo": "OpenNRE",
-            "stars": 4472
+            "stars": 4471
           }
         },
         {
@@ -282,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T22:00:55.017Z",
+    "last_updated": "2026-08-14T21:37:38.325Z",
     "original_repository": "BshoterJ/awesome-kgqa",
     "original_repository_sha": "a4bca167a8da0f687f989c858381c01c8e0236b7",
     "enhanced_repository": "enhansome/enhansome-kgqa",

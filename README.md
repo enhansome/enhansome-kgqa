@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,367 | 🐛 99 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,761 | 🐛 100 | 📅 2026-06-30
 
 TO BE CONTINUED :soon:
 
@@ -113,15 +113,15 @@ TO BE CONTINUED :soon:
 
 :star:  [**A demo of KGQA for movies**](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,330 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python2.7 jena)
 
-:star:  [**A trial of kbqa based on bert for NLPCC2016/2017 Task 5**](https://github.com/WenRichard/KBQA-BERT) ⭐ 1,471 | 🐛 21 | 🌐 Python | 📅 2021-12-16(BERT python3 tensorflow)
+:star:  [**A trial of kbqa based on bert for NLPCC2016/2017 Task 5**](https://github.com/WenRichard/KBQA-BERT) ⭐ 1,470 | 🐛 21 | 🌐 Python | 📅 2021-12-16(BERT python3 tensorflow)
 
 :star:  [**CCKS2019 CKBQA评测获得第四名解决方案**](https://github.com/duterscmy/ccks2019-ckbqa-4th-codes) ⭐ 476 | 🐛 30 | 🌐 Python | 📅 2021-04-05(BERT python3 keras-bert)
 
-* [Agricultural Knowledge Graph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) ⭐ 4,387 | 🐛 63 | 🌐 Python | 📅 2025-02-11(python3 neo4j)
+* [Agricultural Knowledge Graph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) ⭐ 4,384 | 🐛 63 | 🌐 Python | 📅 2025-02-11(python3 neo4j)
 
-* [Stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) ⭐ 2,170 | 🐛 19 | 🌐 Python | 📅 2020-07-23(Neo4j)
+* [Stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) ⭐ 2,168 | 🐛 19 | 🌐 Python | 📅 2020-07-23(Neo4j)
 
-* [KGQA for The Stones](https://github.com/chizhu/KGQA_HLM) ⭐ 1,337 | 🐛 15 | 🌐 HTML | 📅 2019-04-23(neo4j)
+* [KGQA for The Stones](https://github.com/chizhu/KGQA_HLM) ⭐ 1,334 | 🐛 15 | 🌐 HTML | 📅 2019-04-23(neo4j)
 
 * [A tutorial and implement of disease centered Medical knowledge graph and qa system based on it](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,330 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python3 neo4j)
 
@@ -131,7 +131,7 @@ TO BE CONTINUED :soon:
 
 * [Entity-Linking](https://github.com/songjs1993/Entity-Linking) ⭐ 72 | 🐛 0 | 🌐 Python | 📅 2019-08-17(Solr)
 
-* [NLPCC-ICCPOL shared task "Open Domain Question Answering](https://github.com/soloice/QA-System) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2017-10-05
+* [NLPCC-ICCPOL shared task "Open Domain Question Answering](https://github.com/soloice/QA-System) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2017-10-05
 
 * [KGQA based on elasticsearch](http://www.openkg.cn/tool/elasticsearch-kbqa)
 
@@ -153,13 +153,13 @@ TO BE CONTINUED :soon:
 
 :star:  [**OpenKG: A community of Chinese KGQA**](http://openkg.cn/home)
 
-:star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE) ⭐ 4,045 | 🐛 32 | 🌐 Python | 📅 2024-01-10
+:star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE) ⭐ 4,043 | 🐛 32 | 🌐 Python | 📅 2024-01-10
 
 * [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,834 | 🐛 303 | 🌐 Python | 📅 2024-01-23
 
-* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,738 | 🐛 396 | 🌐 Python | 📅 2026-04-14
+* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,740 | 🐛 396 | 🌐 Python | 📅 2026-04-14
 
-* [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/) ⭐ 4,472 | 🐛 19 | 🌐 Python | 📅 2024-01-10, [NER paper](https://github.com/thunlp/NREPapers) ⭐ 1,022 | 🐛 2 | 🌐 TeX | 📅 2020-11-10
+* [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/) ⭐ 4,471 | 🐛 19 | 🌐 Python | 📅 2024-01-10, [NER paper](https://github.com/thunlp/NREPapers) ⭐ 1,022 | 🐛 2 | 🌐 TeX | 📅 2020-11-10
 
 * [DeepDive: a system to extract value from dark data](https://github.com/HazyResearch/deepdive) ⭐ 1,979 | 🐛 81 | 🌐 Shell | 📅 2022-06-09, [Homepage](http://deepdive.stanford.edu/), [Papers](https://github.com/HazyResearch/deepdive/blob/master/doc/papers.md) ⭐ 1,979 | 🐛 81 | 🌐 Shell | 📅 2022-06-09
 
@@ -183,4 +183,4 @@ TO BE CONTINUED :soon:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
