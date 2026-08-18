@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,964 | 🐛 101 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,390 | 🐛 102 | 📅 2026-08-18
 
 TO BE CONTINUED :soon:
 
@@ -109,7 +109,7 @@ TO BE CONTINUED :soon:
 
 ## Open source projects
 
-:star:  [**Awesome knowledge graph**](https://github.com/shaoxiongji/awesome-knowledge-graph) ⭐ 1,791 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-07
+:star:  [**Awesome knowledge graph**](https://github.com/shaoxiongji/awesome-knowledge-graph) ⭐ 1,790 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-07
 
 :star:  [**A demo of KGQA for movies**](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,330 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python2.7 jena)
 
@@ -119,7 +119,7 @@ TO BE CONTINUED :soon:
 
 * [Agricultural Knowledge Graph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) ⭐ 4,384 | 🐛 63 | 🌐 Python | 📅 2025-02-11(python3 neo4j)
 
-* [Stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) ⭐ 2,168 | 🐛 19 | 🌐 Python | 📅 2020-07-23(Neo4j)
+* [Stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) ⭐ 2,170 | 🐛 19 | 🌐 Python | 📅 2020-07-23(Neo4j)
 
 * [KGQA for The Stones](https://github.com/chizhu/KGQA_HLM) ⭐ 1,334 | 🐛 15 | 🌐 HTML | 📅 2019-04-23(neo4j)
 
@@ -153,13 +153,13 @@ TO BE CONTINUED :soon:
 
 :star:  [**OpenKG: A community of Chinese KGQA**](http://openkg.cn/home)
 
-:star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE) ⭐ 4,043 | 🐛 32 | 🌐 Python | 📅 2024-01-10
+:star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE) ⭐ 4,042 | 🐛 32 | 🌐 Python | 📅 2024-01-10
 
-* [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,834 | 🐛 303 | 🌐 Python | 📅 2024-01-23
+* [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,833 | 🐛 303 | 🌐 Python | 📅 2024-01-23
 
-* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,740 | 🐛 396 | 🌐 Python | 📅 2026-04-14
+* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,744 | 🐛 395 | 🌐 Python | 📅 2026-04-14
 
-* [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/) ⭐ 4,471 | 🐛 19 | 🌐 Python | 📅 2024-01-10, [NER paper](https://github.com/thunlp/NREPapers) ⭐ 1,022 | 🐛 2 | 🌐 TeX | 📅 2020-11-10
+* [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/) ⭐ 4,470 | 🐛 19 | 🌐 Python | 📅 2024-01-10, [NER paper](https://github.com/thunlp/NREPapers) ⭐ 1,022 | 🐛 2 | 🌐 TeX | 📅 2020-11-10
 
 * [DeepDive: a system to extract value from dark data](https://github.com/HazyResearch/deepdive) ⭐ 1,979 | 🐛 81 | 🌐 Shell | 📅 2022-06-09, [Homepage](http://deepdive.stanford.edu/), [Papers](https://github.com/HazyResearch/deepdive/blob/master/doc/papers.md) ⭐ 1,979 | 🐛 81 | 🌐 Shell | 📅 2022-06-09
 
@@ -183,4 +183,4 @@ TO BE CONTINUED :soon:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

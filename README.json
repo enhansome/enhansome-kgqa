@@ -86,7 +86,7 @@
             "last_commit": "2020-07-23T15:26:02Z",
             "owner": "lemonhu",
             "repo": "stock-knowledge-graph",
-            "stars": 2168
+            "stars": 2170
           }
         },
         {
@@ -190,7 +190,7 @@
             "last_commit": "2024-01-23T10:33:43Z",
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12834
+            "stars": 12833
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-04-14T21:16:25Z",
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10740
+            "stars": 10744
           }
         },
         {
@@ -218,7 +218,7 @@
             "last_commit": "2024-01-10T11:52:49Z",
             "owner": "thunlp",
             "repo": "OpenNRE",
-            "stars": 4471
+            "stars": 4470
           }
         },
         {
@@ -282,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:37:55.693Z",
+    "last_updated": "2026-08-18T21:36:30.015Z",
     "original_repository": "BshoterJ/awesome-kgqa",
     "original_repository_sha": "a4bca167a8da0f687f989c858381c01c8e0236b7",
     "enhanced_repository": "enhansome/enhansome-kgqa",
