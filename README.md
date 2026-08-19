@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,666 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,800 | 🐛 102 | 📅 2026-08-18
 
 TO BE CONTINUED :soon:
 
@@ -157,7 +157,7 @@ TO BE CONTINUED :soon:
 
 * [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,833 | 🐛 303 | 🌐 Python | 📅 2024-01-23
 
-* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,745 | 🐛 395 | 🌐 Python | 📅 2026-04-14
+* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,747 | 🐛 395 | 🌐 Python | 📅 2026-04-14
 
 * [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/) ⭐ 4,470 | 🐛 19 | 🌐 Python | 📅 2024-01-10, [NER paper](https://github.com/thunlp/NREPapers) ⭐ 1,022 | 🐛 2 | 🌐 TeX | 📅 2020-11-10
 
