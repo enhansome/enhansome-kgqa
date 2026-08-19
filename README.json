@@ -1,62 +1,129 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Papers"
-    },
-    {
-      "description": ":star: (2019.7)Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs",
-      "items": [],
-      "title": "Survey of KGQA"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "COLING 2018-The APVA-TURBO Approach To Question Answering in Knowledge Base",
-          "description": "smile:[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-08-05T03:04:15Z",
-            "owner": "wavewangyue",
-            "repo": "kbqa",
-            "stars": 358
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NAACL 2018-Strong Baselines for Simple Question Answering over Knowledge Graphs with and without Neural Networks",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 94701812,
+                "language": "Python",
+                "last_commit": "2019-05-28T10:25:41Z",
+                "owner": "castorini",
+                "repo": "BuboQA",
+                "stars": 278
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EMNLP 2018-SimpleQuestions Nearly Solved: A New Upperbound and Baseline Approach",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109320238,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-05-12T19:28:43Z",
+                "owner": "PetrochukM",
+                "repo": "Simple-QA-EMNLP-2018",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EMNLP 2018-Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145469929,
+                "language": "Python",
+                "last_commit": "2023-06-14T18:50:24Z",
+                "owner": "haitian-sun",
+                "repo": "GraftNet",
+                "stars": 269
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "COLING 2018-An Interpretable Reasoning Network for Multi-Relation Question Answering",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134799959,
+                "language": "Python",
+                "last_commit": "2018-07-01T08:55:43Z",
+                "owner": "zmtkeke",
+                "repo": "IRN",
+                "stars": 81
+              }
+            }
+          ],
+          "description": ":star: ACL 2017-Improved Neural Relation Detection for Knowledge Base Question Answering\n:star: ACL 2017-An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge\n:star: ACL 2018-Question Answering over Freebase via Attentive RNN with Similarity Matrix based CNN :smile:[code]\n:star: NAACL 2019-Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases:smile:[code]\n:star: NAACL 2019-Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering",
+          "node_type": "group",
+          "title": "Methods based on text matching"
         },
         {
-          "node_type": "item",
-          "title": "SEMANTICS 2017-SPARQL as a Foreign Language",
-          "description": "smile:[code]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-05-20T16:31:20Z",
-            "owner": "LiberAI",
-            "repo": "NSpM",
-            "stars": 225
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IJCAI 2018-Commonsense Knowledge Aware Conversation Generation with Graph Attention",
-          "description": "smile:[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2018-10-18T06:52:23Z",
-            "owner": "tuxchow",
-            "repo": "ccm",
-            "stars": 33
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "COLING 2018-The APVA-TURBO Approach To Question Answering in Knowledge Base",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152038853,
+                "language": "Python",
+                "last_commit": "2020-08-05T03:04:15Z",
+                "owner": "wavewangyue",
+                "repo": "kbqa",
+                "stars": 358
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SEMANTICS 2017-SPARQL as a Foreign Language",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 100738837,
+                "language": "Python",
+                "last_commit": "2026-05-20T16:31:20Z",
+                "owner": "LiberAI",
+                "repo": "NSpM",
+                "stars": 225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IJCAI 2018-Commonsense Knowledge Aware Conversation Generation with Graph Attention",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274318675,
+                "language": null,
+                "last_commit": "2018-10-18T06:52:23Z",
+                "owner": "tuxchow",
+                "repo": "ccm",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Methods based on seq2seq"
         }
       ],
-      "title": "Methods based on seq2seq"
+      "title": "Papers"
     },
     {
       "description": ":star: Awesome knowledge graph\n:star: A demo of KGQA for movies (python2.7 jena)\n:star: A trial of kbqa based on bert for NLPCC2016/2017 Task 5(BERT python3 tensorflow)\n:star: CCKS2019 CKBQA评测获得第四名解决方案(BERT python3 keras-bert)",
@@ -68,11 +135,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111991760,
             "language": "Python",
             "last_commit": "2025-02-11T14:23:01Z",
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4384
+            "stars": 4385
           }
         },
         {
@@ -82,11 +150,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152970435,
             "language": "Python",
             "last_commit": "2020-07-23T15:26:02Z",
             "owner": "lemonhu",
             "repo": "stock-knowledge-graph",
-            "stars": 2170
+            "stars": 2171
           }
         },
         {
@@ -96,6 +165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132229011,
             "language": "HTML",
             "last_commit": "2019-04-23T13:24:43Z",
             "owner": "chizhu",
@@ -110,6 +180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114713667,
             "language": "Python",
             "last_commit": "2022-08-06T05:52:54Z",
             "owner": "SimmerChan",
@@ -124,6 +195,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130812670,
             "language": "Python",
             "last_commit": "2021-01-30T09:24:07Z",
             "owner": "mattzheng",
@@ -138,6 +210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175211462,
             "language": "Python",
             "last_commit": "2019-03-12T14:29:01Z",
             "owner": "zhangtao-seu",
@@ -152,6 +225,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78717945,
             "language": "Python",
             "last_commit": "2019-08-17T08:33:04Z",
             "owner": "Junshuai-Song",
@@ -166,6 +240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78445305,
             "language": "Python",
             "last_commit": "2017-10-05T11:41:02Z",
             "owner": "soloice",
@@ -186,6 +261,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157198623,
             "language": "Python",
             "last_commit": "2024-01-23T10:33:43Z",
             "owner": "jina-ai",
@@ -200,11 +276,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132709824,
             "language": "Python",
             "last_commit": "2026-04-14T21:16:25Z",
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10744
+            "stars": 10745
           }
         },
         {
@@ -214,6 +291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83191570,
             "language": "Python",
             "last_commit": "2024-01-10T11:52:49Z",
             "owner": "thunlp",
@@ -228,6 +306,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17907002,
             "language": "Shell",
             "last_commit": "2022-06-09T05:49:44Z",
             "owner": "HazyResearch",
@@ -242,6 +321,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155827033,
             "language": null,
             "last_commit": "2023-01-24T01:13:19Z",
             "owner": "BrambleXu",
@@ -256,6 +336,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161650285,
             "language": "Java",
             "last_commit": "2022-07-20T01:38:38Z",
             "owner": "pkumod",
@@ -270,6 +351,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152043213,
             "language": null,
             "last_commit": "2018-10-08T08:18:26Z",
             "owner": "wavewangyue",
@@ -282,8 +364,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:36:30.015Z",
+    "last_updated": "2026-08-19T12:39:20.939Z",
     "original_repository": "BshoterJ/awesome-kgqa",
+    "original_repository_id": 216588528,
     "original_repository_sha": "a4bca167a8da0f687f989c858381c01c8e0236b7",
     "enhanced_repository": "enhansome/enhansome-kgqa",
     "enhanced_repository_description": null,
