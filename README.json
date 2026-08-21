@@ -140,7 +140,7 @@
             "last_commit": "2025-02-11T14:23:01Z",
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4386
+            "stars": 4387
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2024-01-23T10:33:43Z",
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12834
+            "stars": 12835
           }
         },
         {
@@ -281,7 +281,7 @@
             "last_commit": "2026-04-14T21:16:25Z",
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10750
+            "stars": 10753
           }
         },
         {
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:41:58.661Z",
+    "last_updated": "2026-08-21T21:36:35.786Z",
     "original_repository": "BshoterJ/awesome-kgqa",
     "original_repository_id": 216588528,
     "original_repository_sha": "a4bca167a8da0f687f989c858381c01c8e0236b7",
