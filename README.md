@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,288 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,518 | 🐛 106 | 📅 2026-08-21
 
 TO BE CONTINUED :soon:
 
@@ -68,9 +68,9 @@ TO BE CONTINUED :soon:
 
 :star: **ACL 2015**-[**Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base**](https://www.microsoft.com/en-us/research/publication/semantic-parsing-via-staged-query-graph-generation-question-answering-with-knowledge-base/):smile:[\[code\]](https://github.com/scottyih/STAGG) ⭐ 111 | 🐛 1 | 🌐 Batchfile | 📅 2016-08-26
 
-* **EMNLP 2018**-[A State-transition Framework to Answer Complex Questions over Knowledge Base](https://www.aclweb.org/anthology/D18-1234.pdf)
-
 * **COLING 2018**-[Modeling Semantics with Gated Graph Neural Networks for Knowledge Base Question Answering](https://www.aclweb.org/anthology/C18-1280.pdf):smile:[\[code\]](https://github.com/UKPLab/coling2018-graph-neural-networks-question-answering) ⭐ 175 | 🐛 9 | 🌐 Python | 📅 2020-02-12
+
+* **EMNLP 2018**-[A State-transition Framework to Answer Complex Questions over Knowledge Base](https://www.aclweb.org/anthology/D18-1234.pdf)
 
 * **EMNLP 2018**-[Knowledge Base Question Answering via Encoding of Complex Query Structures
   ](http://www.cs.sjtu.edu.cn/~kzhu/papers/kzhu-kbqa-complex.pdf)[\[code\]](http://202.120.38.146/CompQA/)
@@ -157,7 +157,7 @@ TO BE CONTINUED :soon:
 
 * [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,836 | 🐛 303 | 🌐 Python | 📅 2024-01-23
 
-* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,754 | 🐛 396 | 🌐 Python | 📅 2026-04-14
+* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,757 | 🐛 397 | 🌐 Python | 📅 2026-04-14
 
 * [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/) ⭐ 4,467 | 🐛 19 | 🌐 Python | 📅 2024-01-10, [NER paper](https://github.com/thunlp/NREPapers) ⭐ 1,021 | 🐛 2 | 🌐 TeX | 📅 2020-11-10
 
@@ -183,4 +183,4 @@ TO BE CONTINUED :soon:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

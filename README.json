@@ -7,6 +7,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "CIKM 2015-More Accurate Question Answering on Freebase",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42302337,
+                "language": "Python",
+                "last_commit": "2023-07-06T21:18:16Z",
+                "owner": "ad-freiburg",
+                "repo": "aqqu",
+                "stars": 107
+              }
+            },
+            {
+              "node_type": "item",
               "title": "NAACL 2018-Strong Baselines for Simple Question Answering over Knowledge Graphs with and without Neural Networks",
               "description": "smile:[code]",
               "children": [],
@@ -33,6 +48,21 @@
                 "owner": "PetrochukM",
                 "repo": "Simple-QA-EMNLP-2018",
                 "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":star: ACL 2018-Question Answering over Freebase via Attentive RNN with Similarity Matrix based CNN",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128504902,
+                "language": "Python",
+                "last_commit": "2018-05-06T12:38:15Z",
+                "owner": "quyingqi",
+                "repo": "kbqa-ar-smcnn",
+                "stars": 142
               }
             },
             {
@@ -64,11 +94,78 @@
                 "repo": "IRN",
                 "stars": 81
               }
+            },
+            {
+              "node_type": "item",
+              "title": ":star: NAACL 2019-Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174169595,
+                "language": "Python",
+                "last_commit": "2022-06-21T22:04:04Z",
+                "owner": "hugochan",
+                "repo": "BAMnet",
+                "stars": 173
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AAAI 2019-Lattice CNNs for Matching Based Chinese Question Answering",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155662269,
+                "language": "Python",
+                "last_commit": "2023-03-24T22:34:04Z",
+                "owner": "Erutan-pku",
+                "repo": "LCN-for-Chinese-QA",
+                "stars": 110
+              }
             }
           ],
-          "description": ":star: ACL 2017-Improved Neural Relation Detection for Knowledge Base Question Answering\n:star: ACL 2017-An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge\n:star: ACL 2018-Question Answering over Freebase via Attentive RNN with Similarity Matrix based CNN :smile:[code]\n:star: NAACL 2019-Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases:smile:[code]\n:star: NAACL 2019-Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering",
+          "description": ":star: ACL 2017-Improved Neural Relation Detection for Knowledge Base Question Answering\n:star: ACL 2017-An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge\n:star: NAACL 2019-Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering",
           "node_type": "group",
           "title": "Methods based on text matching"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":star: ACL 2015-Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66420498,
+                "language": "Batchfile",
+                "last_commit": "2016-08-26T00:09:50Z",
+                "owner": "scottyih",
+                "repo": "STAGG",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "COLING 2018-Modeling Semantics with Gated Graph Neural Networks for Knowledge Base Question Answering",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137081892,
+                "language": "Python",
+                "last_commit": "2020-02-12T13:06:17Z",
+                "owner": "UKPLab",
+                "repo": "coling2018-graph-neural-networks-question-answering",
+                "stars": 175
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Methods based on semanic parsing"
         },
         {
           "children": [
@@ -121,13 +218,147 @@
           "description": null,
           "node_type": "group",
           "title": "Methods based on seq2seq"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":star: ACL 2018-Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130682052,
+                "language": "Python",
+                "last_commit": "2023-07-06T21:56:10Z",
+                "owner": "HLTCHKUST",
+                "repo": "Mem2Seq",
+                "stars": 351
+              }
+            }
+          ],
+          "description": ":star: IJCAI 2019-Learning to Select Knowledge for Response Generation in Dialog Systems",
+          "node_type": "group",
+          "title": "Application of KGQA"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ACL 2018-Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132929646,
+                "language": "Python",
+                "last_commit": "2019-08-05T18:47:44Z",
+                "owner": "MurtyShikhar",
+                "repo": "Hierarchical-Typing",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":star: ACL 2019-Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192248904,
+                "language": "Python",
+                "last_commit": "2020-02-04T21:25:31Z",
+                "owner": "xwhan",
+                "repo": "Knowledge-Aware-Reader",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WSDM 2019-Knowledge Graph Embedding Based Question Answering",
+              "description": "smile:[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157495123,
+                "language": "Python",
+                "last_commit": "2023-04-23T01:45:27Z",
+                "owner": "DEEP-PolyU",
+                "repo": "KEQA_WSDM19",
+                "stars": 156
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
         }
       ],
       "title": "Papers"
     },
     {
-      "description": ":star: Awesome knowledge graph\n:star: A demo of KGQA for movies (python2.7 jena)\n:star: A trial of kbqa based on bert for NLPCC2016/2017 Task 5(BERT python3 tensorflow)\n:star: CCKS2019 CKBQA评测获得第四名解决方案(BERT python3 keras-bert)",
+      "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": ":star: Awesome knowledge graph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163790723,
+            "language": "JavaScript",
+            "last_commit": "2022-10-07T16:30:33Z",
+            "owner": "shaoxiongji",
+            "repo": "knowledge-graphs",
+            "stars": 1792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":star: A demo of KGQA for movies",
+          "description": "(python2.7 jena)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114713667,
+            "language": "Python",
+            "last_commit": "2022-08-06T05:52:54Z",
+            "owner": "SimmerChan",
+            "repo": "KG-demo-for-movie",
+            "stars": 1329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":star: A trial of kbqa based on bert for NLPCC2016/2017 Task 5",
+          "description": "(BERT python3 tensorflow)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182223042,
+            "language": "Python",
+            "last_commit": "2021-12-16T12:05:22Z",
+            "owner": "WenRichard",
+            "repo": "KBQA-BERT",
+            "stars": 1470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":star: CCKS2019 CKBQA评测获得第四名解决方案",
+          "description": "(BERT python3 keras-bert)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215199890,
+            "language": "Python",
+            "last_commit": "2021-04-05T12:54:19Z",
+            "owner": "duterscmy",
+            "repo": "ccks2019-ckbqa-4th-codes",
+            "stars": 476
+          }
+        },
         {
           "node_type": "item",
           "title": "Agricultural Knowledge Graph",
@@ -252,8 +483,23 @@
       "title": "Open source projects"
     },
     {
-      "description": ":star: OpenKG: A community of Chinese KGQA\n:star: OpenKE: An Open-source Framework for Knowledge Embedding",
+      "description": ":star: OpenKG: A community of Chinese KGQA",
       "items": [
+        {
+          "node_type": "item",
+          "title": ":star: OpenKE: An Open-source Framework for Knowledge Embedding",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106170611,
+            "language": "Python",
+            "last_commit": "2024-01-10T11:51:05Z",
+            "owner": "thunlp",
+            "repo": "OpenKE",
+            "stars": 4044
+          }
+        },
         {
           "node_type": "item",
           "title": "Mapping a variable-length sentence to a fixed-length vector using BERT model",
@@ -281,7 +527,7 @@
             "last_commit": "2026-04-14T21:16:25Z",
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10754
+            "stars": 10757
           }
         },
         {
@@ -364,7 +610,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:34:09.685Z",
+    "last_updated": "2026-08-24T14:25:09.276Z",
     "original_repository": "BshoterJ/awesome-kgqa",
     "original_repository_id": 216588528,
     "original_repository_sha": "a4bca167a8da0f687f989c858381c01c8e0236b7",
