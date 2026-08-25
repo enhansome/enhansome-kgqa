@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,704 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,903 | 🐛 106 | 📅 2026-08-21
 
 TO BE CONTINUED :soon:
 
@@ -153,7 +153,7 @@ TO BE CONTINUED :soon:
 
 :star:  [**OpenKG: A community of Chinese KGQA**](http://openkg.cn/home)
 
-:star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE) ⭐ 4,044 | 🐛 32 | 🌐 Python | 📅 2024-01-10
+:star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE) ⭐ 4,045 | 🐛 32 | 🌐 Python | 📅 2024-01-10
 
 * [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,836 | 🐛 303 | 🌐 Python | 📅 2024-01-23
 
@@ -163,7 +163,7 @@ TO BE CONTINUED :soon:
 
 * [DeepDive: a system to extract value from dark data](https://github.com/HazyResearch/deepdive) ⭐ 1,979 | 🐛 81 | 🌐 Shell | 📅 2022-06-09, [Homepage](http://deepdive.stanford.edu/), [Papers](https://github.com/HazyResearch/deepdive/blob/master/doc/papers.md) ⭐ 1,979 | 🐛 81 | 🌐 Shell | 📅 2022-06-09
 
-* [Useful tools & lecture related to data science(中文)](https://github.com/BrambleXu/knowledge-graph-learning/issues/131) ⭐ 778 | 🐛 377 | 📅 2023-01-24
+* [Useful tools & lecture related to data science(中文)](https://github.com/BrambleXu/knowledge-graph-learning/issues/131) ⭐ 778 | 🐛 378 | 📅 2023-01-24
 
 * [A KBQA system based on DBpedia](https://github.com/pkumod/gAnswer) ⭐ 379 | 🐛 38 | 🌐 Java | 📅 2022-07-20
 
