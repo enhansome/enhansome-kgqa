@@ -311,7 +311,7 @@
             "last_commit": "2022-10-07T16:30:33Z",
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1792
+            "stars": 1794
           }
         },
         {
@@ -401,7 +401,7 @@
             "last_commit": "2019-04-23T13:24:43Z",
             "owner": "chizhu",
             "repo": "KGQA_HLM",
-            "stars": 1335
+            "stars": 1336
           }
         },
         {
@@ -497,7 +497,7 @@
             "last_commit": "2024-01-10T11:51:05Z",
             "owner": "thunlp",
             "repo": "OpenKE",
-            "stars": 4045
+            "stars": 4047
           }
         },
         {
@@ -527,7 +527,7 @@
             "last_commit": "2026-04-14T21:16:25Z",
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10757
+            "stars": 10758
           }
         },
         {
@@ -569,7 +569,7 @@
             "archived": false,
             "id": 155827033,
             "language": null,
-            "last_commit": "2023-01-24T01:13:19Z",
+            "last_commit": "2026-08-26T11:34:59Z",
             "owner": "BrambleXu",
             "repo": "knowledge-graph-learning",
             "stars": 778
@@ -610,7 +610,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:42:05.303Z",
+    "last_updated": "2026-08-27T00:46:22.692Z",
     "original_repository": "BshoterJ/awesome-kgqa",
     "original_repository_id": 216588528,
     "original_repository_sha": "a4bca167a8da0f687f989c858381c01c8e0236b7",
