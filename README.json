@@ -512,7 +512,7 @@
             "last_commit": "2024-01-23T10:33:43Z",
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12836
+            "stars": 12835
           }
         },
         {
@@ -610,9 +610,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:46:22.692Z",
-    "original_repository": "BshoterJ/awesome-kgqa",
-    "original_repository_id": 216588528,
+    "last_updated": "2026-08-27T11:51:19.038Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 216588528,
+      "language": null,
+      "last_commit": "2022-03-10T18:44:48Z",
+      "owner": "BshoterJ",
+      "repo": "awesome-kgqa",
+      "stars": 370
+    },
     "original_repository_sha": "a4bca167a8da0f687f989c858381c01c8e0236b7",
     "enhanced_repository": "enhansome/enhansome-kgqa",
     "enhanced_repository_description": null,
