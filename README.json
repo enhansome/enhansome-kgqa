@@ -18,7 +18,8 @@
                 "owner": "ad-freiburg",
                 "repo": "aqqu",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "castorini",
                 "repo": "BuboQA",
                 "stars": 278
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "PetrochukM",
                 "repo": "Simple-QA-EMNLP-2018",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "quyingqi",
                 "repo": "kbqa-ar-smcnn",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "haitian-sun",
                 "repo": "GraftNet",
                 "stars": 269
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "zmtkeke",
                 "repo": "IRN",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "hugochan",
                 "repo": "BAMnet",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "Erutan-pku",
                 "repo": "LCN-for-Chinese-QA",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             }
           ],
           "description": ":star: ACL 2017-Improved Neural Relation Detection for Knowledge Base Question Answering\n:star: ACL 2017-An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge\n:star: NAACL 2019-Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering",
@@ -145,7 +153,8 @@
                 "owner": "scottyih",
                 "repo": "STAGG",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "UKPLab",
                 "repo": "coling2018-graph-neural-networks-question-answering",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             }
           ],
           "description": null,
@@ -182,7 +192,8 @@
                 "owner": "wavewangyue",
                 "repo": "kbqa",
                 "stars": 358
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "LiberAI",
                 "repo": "NSpM",
                 "stars": 225
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "tuxchow",
                 "repo": "ccm",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             }
           ],
           "description": null,
@@ -234,7 +247,8 @@
                 "owner": "HLTCHKUST",
                 "repo": "Mem2Seq",
                 "stars": 351
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             }
           ],
           "description": ":star: IJCAI 2019-Learning to Select Knowledge for Response Generation in Dialog Systems",
@@ -256,7 +270,8 @@
                 "owner": "MurtyShikhar",
                 "repo": "Hierarchical-Typing",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             },
             {
               "node_type": "item",
@@ -271,7 +286,8 @@
                 "owner": "xwhan",
                 "repo": "Knowledge-Aware-Reader",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             },
             {
               "node_type": "item",
@@ -286,7 +302,8 @@
                 "owner": "DEEP-PolyU",
                 "repo": "KEQA_WSDM19",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T05:21:54.845Z"
             }
           ],
           "description": null,
@@ -312,7 +329,8 @@
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
             "stars": 1794
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -327,7 +345,8 @@
             "owner": "SimmerChan",
             "repo": "KG-demo-for-movie",
             "stars": 1329
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -342,7 +361,8 @@
             "owner": "WenRichard",
             "repo": "KBQA-BERT",
             "stars": 1470
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -357,7 +377,8 @@
             "owner": "duterscmy",
             "repo": "ccks2019-ckbqa-4th-codes",
             "stars": 476
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -372,7 +393,8 @@
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
             "stars": 4389
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -387,7 +409,8 @@
             "owner": "lemonhu",
             "repo": "stock-knowledge-graph",
             "stars": 2171
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -402,7 +425,8 @@
             "owner": "chizhu",
             "repo": "KGQA_HLM",
             "stars": 1336
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -417,7 +441,8 @@
             "owner": "SimmerChan",
             "repo": "KG-demo-for-movie",
             "stars": 1329
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -432,7 +457,8 @@
             "owner": "mattzheng",
             "repo": "DouBanRecommend",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -447,7 +473,8 @@
             "owner": "zhangtao-seu",
             "repo": "Jay_KG",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -462,7 +489,8 @@
             "owner": "Junshuai-Song",
             "repo": "Entity-Linking",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -477,7 +505,8 @@
             "owner": "soloice",
             "repo": "QA-System",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         }
       ],
       "title": "Open source projects"
@@ -498,7 +527,8 @@
             "owner": "thunlp",
             "repo": "OpenKE",
             "stars": 4047
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -513,7 +543,8 @@
             "owner": "jina-ai",
             "repo": "clip-as-service",
             "stars": 12835
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -527,8 +558,9 @@
             "last_commit": "2026-04-14T21:16:25Z",
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10758
-          }
+            "stars": 10759
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -543,7 +575,8 @@
             "owner": "thunlp",
             "repo": "OpenNRE",
             "stars": 4467
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -558,7 +591,8 @@
             "owner": "HazyResearch",
             "repo": "deepdive",
             "stars": 1979
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -573,7 +607,8 @@
             "owner": "BrambleXu",
             "repo": "knowledge-graph-learning",
             "stars": 778
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -588,7 +623,8 @@
             "owner": "pkumod",
             "repo": "gAnswer",
             "stars": 379
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         },
         {
           "node_type": "item",
@@ -603,14 +639,15 @@
             "owner": "wavewangyue",
             "repo": "NLPCC-MH",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T05:21:54.845Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:51:19.038Z",
+    "last_updated": "2026-08-28T05:21:54.845Z",
     "original_repository_info": {
       "archived": false,
       "id": 216588528,
