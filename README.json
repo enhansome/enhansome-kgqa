@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "More Accurate Question Answering on Freebase",
+                "homepage": null,
                 "id": 42302337,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-06T21:18:16Z",
+                "open_issues": 8,
                 "owner": "ad-freiburg",
                 "repo": "aqqu",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple question answering over knowledge graphs (Mohammed et al., NAACL 2018)",
+                "homepage": null,
                 "id": 94701812,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-05-28T10:25:41Z",
+                "open_issues": 12,
                 "owner": "castorini",
                 "repo": "BuboQA",
-                "stars": 278
+                "stars": 278,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             },
@@ -44,12 +54,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for my EMNLP 2018 paper \"SimpleQuestions Nearly Solved: A New Upperbound and Baseline Approach\"",
+                "homepage": "http://aclweb.org/anthology/D18-1051",
                 "id": 109320238,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2019-05-12T19:28:43Z",
+                "open_issues": 3,
                 "owner": "PetrochukM",
                 "repo": "Simple-QA-EMNLP-2018",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "emnlp",
+                  "question-answering"
+                ]
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             },
@@ -60,12 +78,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Question answering over Freebase (single-relation)",
+                "homepage": null,
                 "id": 128504902,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-06T12:38:15Z",
+                "open_issues": 2,
                 "owner": "quyingqi",
                 "repo": "kbqa-ar-smcnn",
-                "stars": 142
+                "stars": 142,
+                "topics": [
+                  "kbqa",
+                  "question-answering",
+                  "simple-question"
+                ]
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             },
@@ -76,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 145469929,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-06-14T18:50:24Z",
+                "open_issues": 10,
                 "owner": "haitian-sun",
                 "repo": "GraftNet",
-                "stars": 269
+                "stars": 269,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             },
@@ -92,12 +124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code and data for my COLING paper \"An Interpretable Reasoning Network for Multi-Relation Question Answering\"",
+                "homepage": null,
                 "id": 134799959,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-07-01T08:55:43Z",
+                "open_issues": 2,
                 "owner": "zmtkeke",
                 "repo": "IRN",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             },
@@ -108,12 +145,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code & data accompanying the NAACL 2019 paper \"Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases\"",
+                "homepage": null,
                 "id": 174169595,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-06-21T22:04:04Z",
+                "open_issues": 4,
                 "owner": "hugochan",
                 "repo": "BAMnet",
-                "stars": 173
+                "stars": 173,
+                "topics": [
+                  "attention-model",
+                  "deep-learning",
+                  "kbqa",
+                  "memory-networks",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             },
@@ -124,12 +172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AAAI19 - Lattice CNNs for Matching Based Chinese Question Answering",
+                "homepage": null,
                 "id": 155662269,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-24T22:34:04Z",
+                "open_issues": 5,
                 "owner": "Erutan-pku",
                 "repo": "LCN-for-Chinese-QA",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             }
@@ -147,12 +200,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 66420498,
                 "language": "Batchfile",
+                "license": null,
                 "last_commit": "2016-08-26T00:09:50Z",
+                "open_issues": 1,
                 "owner": "scottyih",
                 "repo": "STAGG",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             },
@@ -163,12 +221,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accompanying code for our COLING 2018 paper \"Modeling Semantics with Gated Graph Neural Networks for Knowledge Base Question Answering\"",
+                "homepage": null,
                 "id": 137081892,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-02-12T13:06:17Z",
+                "open_issues": 9,
                 "owner": "UKPLab",
                 "repo": "coling2018-graph-neural-networks-question-answering",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             }
@@ -186,12 +249,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "基于知识库的问答：seq2seq模型实践",
+                "homepage": null,
                 "id": 152038853,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-08-05T03:04:15Z",
+                "open_issues": 6,
                 "owner": "wavewangyue",
                 "repo": "kbqa",
-                "stars": 358
+                "stars": 358,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             },
@@ -202,12 +270,33 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🤖 Neural SPARQL Machines for Knowledge Graph Question Answering.",
+                "homepage": "http://aksw.org/Projects/NeuralSPARQLMachines",
                 "id": 100738837,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-20T16:31:20Z",
+                "open_issues": 0,
                 "owner": "LiberAI",
                 "repo": "NSpM",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "deep-learning",
+                  "kbqa",
+                  "kgqa",
+                  "knowledge-graph",
+                  "linked-data",
+                  "lstm",
+                  "machine-translation",
+                  "neural-machine-translation",
+                  "neural-qa",
+                  "neural-sparql-machines",
+                  "qald",
+                  "question-answering",
+                  "rdf",
+                  "seq2seq",
+                  "sparql"
+                ]
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             },
@@ -218,12 +307,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project is a tensorflow implement of our work, CCM.",
+                "homepage": null,
                 "id": 274318675,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2018-10-18T06:52:23Z",
+                "open_issues": 0,
                 "owner": "tuxchow",
                 "repo": "ccm",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             }
@@ -241,12 +335,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems",
+                "homepage": null,
                 "id": 130682052,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-06T21:56:10Z",
+                "open_issues": 11,
                 "owner": "HLTCHKUST",
                 "repo": "Mem2Seq",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "deep-learning",
+                  "dialogue-systems",
+                  "end-to-end-learning",
+                  "memory-network"
+                ]
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             }
@@ -264,12 +368,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and Data for all experiments from our ACL 2018 paper \"Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking\"",
+                "homepage": null,
                 "id": 132929646,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-08-05T18:47:44Z",
+                "open_issues": 6,
                 "owner": "MurtyShikhar",
                 "repo": "Hierarchical-Typing",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "convolutional-neural-network",
+                  "deep-learning",
+                  "natural-language-processing",
+                  "neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             },
@@ -280,12 +394,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of the ACL 2019 paper \"Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader\"",
+                "homepage": null,
                 "id": 192248904,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-02-04T21:25:31Z",
+                "open_issues": 4,
                 "owner": "xwhan",
                 "repo": "Knowledge-Aware-Reader",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "acl2019",
+                  "graph-neural-networks",
+                  "knowledge-base",
+                  "pytorch",
+                  "question-answering",
+                  "readingcomprehension"
+                ]
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             },
@@ -296,12 +422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Knowledge Graph Embedding Based Question Answering",
+                "homepage": null,
                 "id": 157495123,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-23T01:45:27Z",
+                "open_issues": 14,
                 "owner": "DEEP-PolyU",
                 "repo": "KEQA_WSDM19",
-                "stars": 156
+                "stars": 156,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
             }
@@ -323,12 +454,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of research on knowledge graphs",
+            "homepage": "https://shaoxiongji.github.io/knowledge-graphs/",
             "id": 163790723,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-10-07T16:30:33Z",
+            "open_issues": 0,
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1794
+            "stars": 1794,
+            "topics": [
+              "commonsense",
+              "cross-modal",
+              "dialogue-systems",
+              "information-retrieval",
+              "knowledge-graph",
+              "knowledge-graph-completion",
+              "meta-relational-learning",
+              "natural-language-processing",
+              "ner",
+              "paper",
+              "question-answering",
+              "reasoning",
+              "recommendation-systems",
+              "relation-extraction",
+              "representation-learning",
+              "survey",
+              "temporal-knowledge-graph"
+            ]
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -339,12 +493,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "从无到有构建一个电影知识图谱，并基于该KG，开发一个简易的KBQA程序。",
+            "homepage": "https://zhuanlan.zhihu.com/knowledgegraph",
             "id": 114713667,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-06T05:52:54Z",
+            "open_issues": 15,
             "owner": "SimmerChan",
             "repo": "KG-demo-for-movie",
-            "stars": 1329
+            "stars": 1329,
+            "topics": [
+              "knowledge-graph",
+              "question-answering"
+            ]
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -355,12 +517,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于知识图谱的问答系统，BERT做命名实体识别和句子相似度，分为online和outline模式",
+            "homepage": null,
             "id": 182223042,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-12-16T12:05:22Z",
+            "open_issues": 21,
             "owner": "WenRichard",
             "repo": "KBQA-BERT",
-            "stars": 1470
+            "stars": 1470,
+            "topics": [
+              "bert",
+              "knowledge-graph",
+              "nlpcc2017",
+              "sentence-similarity"
+            ]
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -371,12 +543,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "中文知识库问答代码，CCKS2019 CKBQA评测第四名解决方案",
+            "homepage": null,
             "id": 215199890,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-04-05T12:54:19Z",
+            "open_issues": 30,
             "owner": "duterscmy",
             "repo": "ccks2019-ckbqa-4th-codes",
-            "stars": 476
+            "stars": 476,
+            "topics": [
+              "kbqa",
+              "python",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -387,12 +568,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策",
+            "homepage": null,
             "id": 111991760,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-11T14:23:01Z",
+            "open_issues": 63,
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4389
+            "stars": 4389,
+            "topics": [
+              "knowledge-graph",
+              "named-entity-recognition",
+              "question-answering",
+              "relation-extraction"
+            ]
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -403,12 +594,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "利用网络上公开的数据构建一个小型的证券知识图谱/知识库",
+            "homepage": null,
             "id": 152970435,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-07-23T15:26:02Z",
+            "open_issues": 19,
             "owner": "lemonhu",
             "repo": "stock-knowledge-graph",
-            "stars": 2171
+            "stars": 2171,
+            "topics": [
+              "course-project",
+              "cypher",
+              "getting-started",
+              "knowledge-base",
+              "knowledge-graph",
+              "neo4j",
+              "python3",
+              "stock"
+            ]
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -419,12 +624,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于知识图谱的《红楼梦》人物关系可视化及问答系统",
+            "homepage": null,
             "id": 132229011,
             "language": "HTML",
+            "license": null,
             "last_commit": "2019-04-23T13:24:43Z",
+            "open_issues": 15,
             "owner": "chizhu",
             "repo": "KGQA_HLM",
-            "stars": 1336
+            "stars": 1336,
+            "topics": [
+              "kgqa",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -435,12 +648,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "从无到有构建一个电影知识图谱，并基于该KG，开发一个简易的KBQA程序。",
+            "homepage": "https://zhuanlan.zhihu.com/knowledgegraph",
             "id": 114713667,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-06T05:52:54Z",
+            "open_issues": 15,
             "owner": "SimmerChan",
             "repo": "KG-demo-for-movie",
-            "stars": 1329
+            "stars": 1329,
+            "topics": [
+              "knowledge-graph",
+              "question-answering"
+            ]
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -451,12 +672,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于豆瓣图书的推荐、知识图谱与知识引擎简单构建neo4j",
+            "homepage": null,
             "id": 130812670,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-01-30T09:24:07Z",
+            "open_issues": 5,
             "owner": "mattzheng",
             "repo": "DouBanRecommend",
-            "stars": 268
+            "stars": 268,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -467,12 +693,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "周杰伦歌曲信息的知识图谱问答系统",
+            "homepage": null,
             "id": 175211462,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-03-12T14:29:01Z",
+            "open_issues": 1,
             "owner": "zhangtao-seu",
             "repo": "Jay_KG",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -483,12 +714,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Entity Linking，识别给定文本中出现的命名实体（Named Entity），并映射到特定的知识库中唯一的实体。包括命名实体识别、消歧等工作。",
+            "homepage": null,
             "id": 78717945,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-08-17T08:33:04Z",
+            "open_issues": 0,
             "owner": "Junshuai-Song",
             "repo": "Entity-Linking",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -499,12 +735,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implemented a QA System.  This is the code for the NLPCC-ICCPOL shared task \"Open Domain Question Answering.\"",
+            "homepage": null,
             "id": 78445305,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-10-05T11:41:02Z",
+            "open_issues": 0,
             "owner": "soloice",
             "repo": "QA-System",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         }
@@ -521,12 +762,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open-Source Package for Knowledge Embedding (KE)",
+            "homepage": null,
             "id": 106170611,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-10T11:51:05Z",
+            "open_issues": 32,
             "owner": "thunlp",
             "repo": "OpenKE",
-            "stars": 4047
+            "stars": 4047,
+            "topics": [
+              "knowledge-embedding"
+            ]
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -537,12 +785,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP",
+            "homepage": "https://clip-as-service.jina.ai",
             "id": 157198623,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-23T10:33:43Z",
+            "open_issues": 303,
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12835
+            "stars": 12835,
+            "topics": [
+              "bert",
+              "bert-as-service",
+              "clip-as-service",
+              "clip-model",
+              "cross-modal-retrieval",
+              "cross-modality",
+              "deep-learning",
+              "image2vec",
+              "multi-modality",
+              "neural-search",
+              "onnx",
+              "openai",
+              "pytorch",
+              "sentence-encoding",
+              "sentence2vec"
+            ]
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -553,12 +822,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source annotation tool for machine learning practitioners.",
+            "homepage": null,
             "id": 132709824,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-14T21:16:25Z",
+            "open_issues": 398,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10760
+            "stars": 10760,
+            "topics": [
+              "annotation-tool",
+              "data-labeling",
+              "dataset",
+              "datasets",
+              "machine-learning",
+              "natural-language-processing",
+              "nuxt",
+              "nuxtjs",
+              "python",
+              "text-annotation",
+              "vue",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -569,12 +856,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " An Open-Source Package for Neural Relation Extraction (NRE)",
+            "homepage": null,
             "id": 83191570,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-10T11:52:49Z",
+            "open_issues": 19,
             "owner": "thunlp",
             "repo": "OpenNRE",
-            "stars": 4467
+            "stars": 4467,
+            "topics": [
+              "relation-extraction"
+            ]
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -585,12 +879,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepDive",
+            "homepage": "deepdive.stanford.edu",
             "id": 17907002,
             "language": "Shell",
+            "license": null,
             "last_commit": "2022-06-09T05:49:44Z",
+            "open_issues": 81,
             "owner": "HazyResearch",
             "repo": "deepdive",
-            "stars": 1979
+            "stars": 1979,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -601,12 +900,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome knowledge graph tutorials, projects and communities.",
+            "homepage": null,
             "id": 155827033,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-26T11:34:59Z",
+            "open_issues": 377,
             "owner": "BrambleXu",
             "repo": "knowledge-graph-learning",
-            "stars": 778
+            "stars": 778,
+            "topics": [
+              "knowledge-graph",
+              "knowledge-graph-embeddings",
+              "relation-extraction"
+            ]
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -617,12 +925,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A KBQA system based on DBpedia.",
+            "homepage": "http://ganswer.gstore-pku.com",
             "id": 161650285,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-07-20T01:38:38Z",
+            "open_issues": 38,
             "owner": "pkumod",
             "repo": "gAnswer",
-            "stars": 379
+            "stars": 379,
+            "topics": [
+              "dbpedia",
+              "question-answering",
+              "semantic-parsing",
+              "sparql"
+            ]
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         },
@@ -633,12 +951,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "中文多跳问答数据集",
+            "homepage": null,
             "id": 152043213,
             "language": null,
+            "license": null,
             "last_commit": "2018-10-08T08:18:26Z",
+            "open_issues": 3,
             "owner": "wavewangyue",
             "repo": "NLPCC-MH",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
         }
@@ -647,15 +970,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:09:14.902Z",
+    "last_updated": "2026-08-29T04:44:13.015Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of some materials of knowledge graph question answering",
+      "homepage": null,
       "id": 216588528,
       "language": null,
+      "license": null,
       "last_commit": "2022-03-10T18:44:48Z",
+      "open_issues": 2,
       "owner": "BshoterJ",
       "repo": "awesome-kgqa",
-      "stars": 370
+      "stars": 370,
+      "topics": [
+        "awesome-list",
+        "kbqa",
+        "knowledge-graph",
+        "question-answering"
+      ]
     },
     "original_repository_sha": "a4bca167a8da0f687f989c858381c01c8e0236b7",
     "enhanced_repository": "enhansome/enhansome-kgqa",
