@@ -502,7 +502,7 @@
             "open_issues": 15,
             "owner": "SimmerChan",
             "repo": "KG-demo-for-movie",
-            "stars": 1329,
+            "stars": 1328,
             "topics": [
               "knowledge-graph",
               "question-answering"
@@ -657,7 +657,7 @@
             "open_issues": 15,
             "owner": "SimmerChan",
             "repo": "KG-demo-for-movie",
-            "stars": 1329,
+            "stars": 1328,
             "topics": [
               "knowledge-graph",
               "question-answering"
@@ -831,7 +831,7 @@
             "open_issues": 398,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10760,
+            "stars": 10761,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:36:17.397Z",
+    "last_updated": "2026-09-01T23:17:08.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
