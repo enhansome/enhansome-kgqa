@@ -133,7 +133,7 @@
                 "open_issues": 2,
                 "owner": "zmtkeke",
                 "repo": "IRN",
-                "stars": 81,
+                "stars": 80,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
@@ -526,7 +526,7 @@
             "open_issues": 21,
             "owner": "WenRichard",
             "repo": "KBQA-BERT",
-            "stars": 1470,
+            "stars": 1469,
             "topics": [
               "bert",
               "knowledge-graph",
@@ -577,7 +577,7 @@
             "open_issues": 63,
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4390,
+            "stars": 4389,
             "topics": [
               "knowledge-graph",
               "named-entity-recognition",
@@ -681,7 +681,7 @@
             "open_issues": 5,
             "owner": "mattzheng",
             "repo": "DouBanRecommend",
-            "stars": 268,
+            "stars": 267,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
@@ -771,7 +771,7 @@
             "open_issues": 32,
             "owner": "thunlp",
             "repo": "OpenKE",
-            "stars": 4047,
+            "stars": 4046,
             "topics": [
               "knowledge-embedding"
             ]
@@ -865,7 +865,7 @@
             "open_issues": 19,
             "owner": "thunlp",
             "repo": "OpenNRE",
-            "stars": 4467,
+            "stars": 4466,
             "topics": [
               "relation-extraction"
             ]
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T23:17:45.512Z",
+    "last_updated": "2026-09-03T23:15:37.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
