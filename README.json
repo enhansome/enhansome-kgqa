@@ -831,7 +831,7 @@
             "open_issues": 398,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10762,
+            "stars": 10764,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:15:37.307Z",
+    "last_updated": "2026-09-04T23:02:11.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
