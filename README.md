@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,317 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,659 | 🐛 106 | 📅 2026-09-02
 
 TO BE CONTINUED :soon:
 
@@ -119,7 +119,7 @@ TO BE CONTINUED :soon:
 
 * [Agricultural Knowledge Graph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) ⭐ 4,389 | 🐛 63 | 🌐 Python | 📅 2025-02-11(python3 neo4j)
 
-* [Stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) ⭐ 2,173 | 🐛 19 | 🌐 Python | 📅 2020-07-23(Neo4j)
+* [Stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) ⭐ 2,174 | 🐛 19 | 🌐 Python | 📅 2020-07-23(Neo4j)
 
 * [KGQA for The Stones](https://github.com/chizhu/KGQA_HLM) ⭐ 1,336 | 🐛 15 | 🌐 HTML | 📅 2019-04-23(neo4j)
 
@@ -183,4 +183,4 @@ TO BE CONTINUED :soon:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
