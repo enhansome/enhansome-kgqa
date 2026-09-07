@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,659 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,968 | 🐛 106 | 📅 2026-09-02
 
 TO BE CONTINUED :soon:
 
@@ -54,7 +54,7 @@ TO BE CONTINUED :soon:
 * **ACL 2018**-[Transliteration Better than Translation? Answering Code-mixed Questions over a Knowledge Base
   ](https://www.aclweb.org/anthology/W18-3205.pdf)
 
-:star:  **NAACL 2019**-[**Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases**](https://arxiv.org/pdf/1903.02188.pdf):smile:[\[code\]](https://github.com/hugochan/BAMnet) ⭐ 173 | 🐛 4 | 🌐 Python | 📅 2022-06-21
+:star:  **NAACL 2019**-[**Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases**](https://arxiv.org/pdf/1903.02188.pdf):smile:[\[code\]](https://github.com/hugochan/BAMnet) ⭐ 172 | 🐛 4 | 🌐 Python | 📅 2022-06-21
 
 * **AAAI 2019**-[Lattice CNNs for Matching Based Chinese Question Answering](https://arxiv.org/pdf/1902.09087.pdf):smile:[\[code\]](https://github.com/Erutan-pku/LCN-for-Chinese-QA) ⭐ 110 | 🐛 5 | 🌐 Python | 📅 2023-03-24
 
@@ -109,7 +109,7 @@ TO BE CONTINUED :soon:
 
 ## Open source projects
 
-:star:  [**Awesome knowledge graph**](https://github.com/shaoxiongji/awesome-knowledge-graph) ⭐ 1,794 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-07
+:star:  [**Awesome knowledge graph**](https://github.com/shaoxiongji/awesome-knowledge-graph) ⭐ 1,793 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-07
 
 :star:  [**A demo of KGQA for movies**](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,328 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python2.7 jena)
 
@@ -117,7 +117,7 @@ TO BE CONTINUED :soon:
 
 :star:  [**CCKS2019 CKBQA评测获得第四名解决方案**](https://github.com/duterscmy/ccks2019-ckbqa-4th-codes) ⭐ 476 | 🐛 30 | 🌐 Python | 📅 2021-04-05(BERT python3 keras-bert)
 
-* [Agricultural Knowledge Graph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) ⭐ 4,389 | 🐛 63 | 🌐 Python | 📅 2025-02-11(python3 neo4j)
+* [Agricultural Knowledge Graph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) ⭐ 4,390 | 🐛 63 | 🌐 Python | 📅 2025-02-11(python3 neo4j)
 
 * [Stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) ⭐ 2,174 | 🐛 19 | 🌐 Python | 📅 2020-07-23(Neo4j)
 
@@ -157,7 +157,7 @@ TO BE CONTINUED :soon:
 
 * [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,835 | 🐛 303 | 🌐 Python | 📅 2024-01-23
 
-* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,765 | 🐛 398 | 🌐 Python | 📅 2026-04-14
+* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,767 | 🐛 398 | 🌐 Python | 📅 2026-04-14
 
 * [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/) ⭐ 4,466 | 🐛 19 | 🌐 Python | 📅 2024-01-10, [NER paper](https://github.com/thunlp/NREPapers) ⭐ 1,021 | 🐛 2 | 🌐 TeX | 📅 2020-11-10
 
@@ -183,4 +183,4 @@ TO BE CONTINUED :soon:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
