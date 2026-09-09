@@ -771,7 +771,7 @@
             "open_issues": 32,
             "owner": "thunlp",
             "repo": "OpenKE",
-            "stars": 4046,
+            "stars": 4047,
             "topics": [
               "knowledge-embedding"
             ]
@@ -791,10 +791,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-01-23T10:33:43Z",
-            "open_issues": 303,
+            "open_issues": 304,
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12835,
+            "stars": 12836,
             "topics": [
               "bert",
               "bert-as-service",
@@ -831,7 +831,7 @@
             "open_issues": 398,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10766,
+            "stars": 10768,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T23:22:11.832Z",
+    "last_updated": "2026-09-09T23:12:37.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",

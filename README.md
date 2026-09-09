@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,266 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,525 | 🐛 106 | 📅 2026-09-02
 
 TO BE CONTINUED :soon:
 
@@ -153,11 +153,11 @@ TO BE CONTINUED :soon:
 
 :star:  [**OpenKG: A community of Chinese KGQA**](http://openkg.cn/home)
 
-:star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE) ⭐ 4,046 | 🐛 32 | 🌐 Python | 📅 2024-01-10
+:star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE) ⭐ 4,047 | 🐛 32 | 🌐 Python | 📅 2024-01-10
 
-* [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,835 | 🐛 303 | 🌐 Python | 📅 2024-01-23
+* [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,836 | 🐛 304 | 🌐 Python | 📅 2024-01-23
 
-* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,766 | 🐛 398 | 🌐 Python | 📅 2026-04-14
+* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,768 | 🐛 398 | 🌐 Python | 📅 2026-04-14
 
 * [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/) ⭐ 4,466 | 🐛 19 | 🌐 Python | 📅 2024-01-10, [NER paper](https://github.com/thunlp/NREPapers) ⭐ 1,021 | 🐛 2 | 🌐 TeX | 📅 2020-11-10
 
@@ -183,4 +183,4 @@ TO BE CONTINUED :soon:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
