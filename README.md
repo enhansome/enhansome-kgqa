@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,525 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,829 | 🐛 106 | 📅 2026-09-02
 
 TO BE CONTINUED :soon:
 
@@ -43,7 +43,7 @@ TO BE CONTINUED :soon:
 ](https://arxiv.gg363.site/vc/arxiv/papers/1804/1804.03317v2.pdf):smile:[\[code\]](https://github.com/quyingqi/kbqa-ar-smcnn) ⭐ 142 | 🐛 2 | 🌐 Python | 📅 2018-05-06
 
 * **EMNLP 2018**-[Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text
-  ](https://arxiv.org/pdf/1809.00782.pdf):smile:[\[code\]](https://github.com/OceanskySun/GraftNet) ⭐ 269 | 🐛 10 | 🌐 Python | 📅 2023-06-14
+  ](https://arxiv.org/pdf/1809.00782.pdf):smile:[\[code\]](https://github.com/OceanskySun/GraftNet) ⭐ 270 | 🐛 10 | 🌐 Python | 📅 2023-06-14
 
 * **COLING 2018**-[An Interpretable Reasoning Network for Multi-Relation Question Answering
   ](https://www.aclweb.org/anthology/C18-1171.pdf):smile:[\[code\]](https://github.com/zmtkeke/IRN) ⭐ 80 | 🐛 2 | 🌐 Python | 📅 2018-07-01
@@ -155,7 +155,7 @@ TO BE CONTINUED :soon:
 
 :star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE) ⭐ 4,047 | 🐛 32 | 🌐 Python | 📅 2024-01-10
 
-* [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,836 | 🐛 304 | 🌐 Python | 📅 2024-01-23
+* [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,837 | 🐛 304 | 🌐 Python | 📅 2024-01-23
 
 * [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,768 | 🐛 398 | 🌐 Python | 📅 2026-04-14
 
@@ -183,4 +183,4 @@ TO BE CONTINUED :soon:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._

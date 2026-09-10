@@ -112,7 +112,7 @@
                 "open_issues": 10,
                 "owner": "haitian-sun",
                 "repo": "GraftNet",
-                "stars": 269,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
@@ -794,7 +794,7 @@
             "open_issues": 304,
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12836,
+            "stars": 12837,
             "topics": [
               "bert",
               "bert-as-service",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:12:37.936Z",
+    "last_updated": "2026-09-10T23:07:56.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
