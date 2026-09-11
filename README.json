@@ -633,7 +633,7 @@
             "open_issues": 15,
             "owner": "chizhu",
             "repo": "KGQA_HLM",
-            "stars": 1336,
+            "stars": 1337,
             "topics": [
               "kgqa",
               "nlp"
@@ -771,7 +771,7 @@
             "open_issues": 32,
             "owner": "thunlp",
             "repo": "OpenKE",
-            "stars": 4047,
+            "stars": 4048,
             "topics": [
               "knowledge-embedding"
             ]
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T23:07:56.399Z",
+    "last_updated": "2026-09-11T23:14:33.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
