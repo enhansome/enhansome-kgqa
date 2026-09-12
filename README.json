@@ -552,7 +552,7 @@
             "open_issues": 30,
             "owner": "duterscmy",
             "repo": "ccks2019-ckbqa-4th-codes",
-            "stars": 476,
+            "stars": 477,
             "topics": [
               "kbqa",
               "python",
@@ -794,7 +794,7 @@
             "open_issues": 304,
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12837,
+            "stars": 12835,
             "topics": [
               "bert",
               "bert-as-service",
@@ -865,7 +865,7 @@
             "open_issues": 19,
             "owner": "thunlp",
             "repo": "OpenNRE",
-            "stars": 4466,
+            "stars": 4465,
             "topics": [
               "relation-extraction"
             ]
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:14:33.895Z",
+    "last_updated": "2026-09-12T23:02:01.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
