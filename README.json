@@ -463,7 +463,7 @@
             "open_issues": 0,
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1792,
+            "stars": 1793,
             "topics": [
               "commonsense",
               "cross-modal",
@@ -603,7 +603,7 @@
             "open_issues": 19,
             "owner": "lemonhu",
             "repo": "stock-knowledge-graph",
-            "stars": 2174,
+            "stars": 2177,
             "topics": [
               "course-project",
               "cypher",
@@ -794,7 +794,7 @@
             "open_issues": 304,
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12835,
+            "stars": 12834,
             "topics": [
               "bert",
               "bert-as-service",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T23:07:16.313Z",
+    "last_updated": "2026-09-14T23:51:11.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
