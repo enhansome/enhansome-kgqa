@@ -463,7 +463,7 @@
             "open_issues": 0,
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1793,
+            "stars": 1794,
             "topics": [
               "commonsense",
               "cross-modal",
@@ -603,7 +603,7 @@
             "open_issues": 19,
             "owner": "lemonhu",
             "repo": "stock-knowledge-graph",
-            "stars": 2177,
+            "stars": 2179,
             "topics": [
               "course-project",
               "cypher",
@@ -771,7 +771,7 @@
             "open_issues": 32,
             "owner": "thunlp",
             "repo": "OpenKE",
-            "stars": 4048,
+            "stars": 4049,
             "topics": [
               "knowledge-embedding"
             ]
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:51:11.618Z",
+    "last_updated": "2026-09-15T23:31:01.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
