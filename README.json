@@ -603,7 +603,7 @@
             "open_issues": 19,
             "owner": "lemonhu",
             "repo": "stock-knowledge-graph",
-            "stars": 2179,
+            "stars": 2178,
             "topics": [
               "course-project",
               "cypher",
@@ -771,7 +771,7 @@
             "open_issues": 32,
             "owner": "thunlp",
             "repo": "OpenKE",
-            "stars": 4049,
+            "stars": 4050,
             "topics": [
               "knowledge-embedding"
             ]
@@ -794,7 +794,7 @@
             "open_issues": 304,
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12834,
+            "stars": 12833,
             "topics": [
               "bert",
               "bert-as-service",
@@ -831,7 +831,7 @@
             "open_issues": 398,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10768,
+            "stars": 10770,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T23:31:01.839Z",
+    "last_updated": "2026-09-16T23:38:28.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
