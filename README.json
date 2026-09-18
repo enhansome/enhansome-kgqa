@@ -794,7 +794,7 @@
             "open_issues": 304,
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12833,
+            "stars": 12832,
             "topics": [
               "bert",
               "bert-as-service",
@@ -831,7 +831,7 @@
             "open_issues": 398,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10770,
+            "stars": 10771,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:32:44.117Z",
+    "last_updated": "2026-09-18T23:17:14.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
