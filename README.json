@@ -502,7 +502,7 @@
             "open_issues": 15,
             "owner": "SimmerChan",
             "repo": "KG-demo-for-movie",
-            "stars": 1329,
+            "stars": 1330,
             "topics": [
               "knowledge-graph",
               "question-answering"
@@ -577,7 +577,7 @@
             "open_issues": 63,
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4392,
+            "stars": 4393,
             "topics": [
               "knowledge-graph",
               "named-entity-recognition",
@@ -657,7 +657,7 @@
             "open_issues": 15,
             "owner": "SimmerChan",
             "repo": "KG-demo-for-movie",
-            "stars": 1329,
+            "stars": 1330,
             "topics": [
               "knowledge-graph",
               "question-answering"
@@ -888,7 +888,7 @@
             "open_issues": 81,
             "owner": "HazyResearch",
             "repo": "deepdive",
-            "stars": 1980,
+            "stars": 1979,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T23:13:30.126Z",
+    "last_updated": "2026-09-22T00:04:18.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",

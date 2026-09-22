@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,243 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,632 | 🐛 106 | 📅 2026-09-02
 
 TO BE CONTINUED :soon:
 
@@ -111,19 +111,19 @@ TO BE CONTINUED :soon:
 
 :star:  [**Awesome knowledge graph**](https://github.com/shaoxiongji/awesome-knowledge-graph) ⭐ 1,795 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-07
 
-:star:  [**A demo of KGQA for movies**](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,329 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python2.7 jena)
+:star:  [**A demo of KGQA for movies**](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,330 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python2.7 jena)
 
 :star:  [**A trial of kbqa based on bert for NLPCC2016/2017 Task 5**](https://github.com/WenRichard/KBQA-BERT) ⭐ 1,469 | 🐛 21 | 🌐 Python | 📅 2021-12-16(BERT python3 tensorflow)
 
 :star:  [**CCKS2019 CKBQA评测获得第四名解决方案**](https://github.com/duterscmy/ccks2019-ckbqa-4th-codes) ⭐ 477 | 🐛 30 | 🌐 Python | 📅 2021-04-05(BERT python3 keras-bert)
 
-* [Agricultural Knowledge Graph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) ⭐ 4,392 | 🐛 63 | 🌐 Python | 📅 2025-02-11(python3 neo4j)
+* [Agricultural Knowledge Graph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) ⭐ 4,393 | 🐛 63 | 🌐 Python | 📅 2025-02-11(python3 neo4j)
 
 * [Stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) ⭐ 2,179 | 🐛 19 | 🌐 Python | 📅 2020-07-23(Neo4j)
 
 * [KGQA for The Stones](https://github.com/chizhu/KGQA_HLM) ⭐ 1,338 | 🐛 15 | 🌐 HTML | 📅 2019-04-23(neo4j)
 
-* [A tutorial and implement of disease centered Medical knowledge graph and qa system based on it](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,329 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python3 neo4j)
+* [A tutorial and implement of disease centered Medical knowledge graph and qa system based on it](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,330 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python3 neo4j)
 
 * [Recommend system for douban based on KG](https://github.com/mattzheng/DouBanRecommend) ⭐ 267 | 🐛 5 | 🌐 Python | 📅 2021-01-30
 
@@ -161,7 +161,7 @@ TO BE CONTINUED :soon:
 
 * [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/) ⭐ 4,465 | 🐛 19 | 🌐 Python | 📅 2024-01-10, [NER paper](https://github.com/thunlp/NREPapers) ⭐ 1,021 | 🐛 2 | 🌐 TeX | 📅 2020-11-10
 
-* [DeepDive: a system to extract value from dark data](https://github.com/HazyResearch/deepdive) ⭐ 1,980 | 🐛 81 | 🌐 Shell | 📅 2022-06-09, [Homepage](http://deepdive.stanford.edu/), [Papers](https://github.com/HazyResearch/deepdive/blob/master/doc/papers.md) ⭐ 1,980 | 🐛 81 | 🌐 Shell | 📅 2022-06-09
+* [DeepDive: a system to extract value from dark data](https://github.com/HazyResearch/deepdive) ⭐ 1,979 | 🐛 81 | 🌐 Shell | 📅 2022-06-09, [Homepage](http://deepdive.stanford.edu/), [Papers](https://github.com/HazyResearch/deepdive/blob/master/doc/papers.md) ⭐ 1,979 | 🐛 81 | 🌐 Shell | 📅 2022-06-09
 
 * [Useful tools & lecture related to data science(中文)](https://github.com/BrambleXu/knowledge-graph-learning/issues/131) ⭐ 778 | 🐛 377 | 📅 2026-08-26
 
@@ -183,4 +183,4 @@ TO BE CONTINUED :soon:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
