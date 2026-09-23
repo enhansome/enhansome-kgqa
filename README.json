@@ -279,7 +279,7 @@
                 "open_issues": 0,
                 "owner": "LiberAI",
                 "repo": "NSpM",
-                "stars": 225,
+                "stars": 226,
                 "topics": [
                   "deep-learning",
                   "kbqa",
@@ -577,7 +577,7 @@
             "open_issues": 63,
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4393,
+            "stars": 4395,
             "topics": [
               "knowledge-graph",
               "named-entity-recognition",
@@ -831,7 +831,7 @@
             "open_issues": 398,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10772,
+            "stars": 10773,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:35:31.962Z",
+    "last_updated": "2026-09-23T23:39:31.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
