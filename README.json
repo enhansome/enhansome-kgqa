@@ -42,7 +42,7 @@
                 "open_issues": 12,
                 "owner": "castorini",
                 "repo": "BuboQA",
-                "stars": 278,
+                "stars": 279,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
@@ -463,7 +463,7 @@
             "open_issues": 0,
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1796,
+            "stars": 1797,
             "topics": [
               "commonsense",
               "cross-modal",
@@ -577,7 +577,7 @@
             "open_issues": 63,
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4395,
+            "stars": 4396,
             "topics": [
               "knowledge-graph",
               "named-entity-recognition",
@@ -794,7 +794,7 @@
             "open_issues": 304,
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12832,
+            "stars": 12831,
             "topics": [
               "bert",
               "bert-as-service",
@@ -828,10 +828,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-04-14T21:16:25Z",
-            "open_issues": 398,
+            "open_issues": 399,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10778,
+            "stars": 10779,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:56:12.865Z",
+    "last_updated": "2026-09-26T23:35:39.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
