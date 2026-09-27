@@ -831,7 +831,7 @@
             "open_issues": 399,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10779,
+            "stars": 10781,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -888,7 +888,7 @@
             "open_issues": 81,
             "owner": "HazyResearch",
             "repo": "deepdive",
-            "stars": 1979,
+            "stars": 1978,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:35:39.868Z",
+    "last_updated": "2026-09-27T23:48:12.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
@@ -982,7 +982,7 @@
       "open_issues": 2,
       "owner": "BshoterJ",
       "repo": "awesome-kgqa",
-      "stars": 370,
+      "stars": 371,
       "topics": [
         "awesome-list",
         "kbqa",
