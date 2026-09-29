@@ -577,7 +577,7 @@
             "open_issues": 63,
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4396,
+            "stars": 4397,
             "topics": [
               "knowledge-graph",
               "named-entity-recognition",
@@ -603,7 +603,7 @@
             "open_issues": 19,
             "owner": "lemonhu",
             "repo": "stock-knowledge-graph",
-            "stars": 2179,
+            "stars": 2180,
             "topics": [
               "course-project",
               "cypher",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:48:12.831Z",
+    "last_updated": "2026-09-29T00:57:58.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
