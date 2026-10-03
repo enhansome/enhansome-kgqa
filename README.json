@@ -450,7 +450,7 @@
         {
           "node_type": "item",
           "title": ":star: Awesome knowledge graph",
-          "description": null,
+          "description": "shaoxiongji/knowledge-graphs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -603,7 +603,7 @@
             "open_issues": 19,
             "owner": "lemonhu",
             "repo": "stock-knowledge-graph",
-            "stars": 2180,
+            "stars": 2179,
             "topics": [
               "course-project",
               "cypher",
@@ -668,7 +668,7 @@
         {
           "node_type": "item",
           "title": "Recommend system for douban based on KG",
-          "description": null,
+          "description": "mattzheng/DouBanRecommend",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -731,7 +731,7 @@
         {
           "node_type": "item",
           "title": "NLPCC-ICCPOL shared task \"Open Domain Question Answering",
-          "description": null,
+          "description": "soloice/QA-System",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -758,7 +758,7 @@
         {
           "node_type": "item",
           "title": ":star: OpenKE: An Open-source Framework for Knowledge Embedding",
-          "description": null,
+          "description": "thunlp/OpenKE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -781,7 +781,7 @@
         {
           "node_type": "item",
           "title": "Mapping a variable-length sentence to a fixed-length vector using BERT model",
-          "description": null,
+          "description": "jina-ai/clip-as-service",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -818,7 +818,7 @@
         {
           "node_type": "item",
           "title": "Annotation tool: doccano",
-          "description": null,
+          "description": "doccano/doccano",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -896,7 +896,7 @@
         {
           "node_type": "item",
           "title": "Useful tools & lecture related to data science(中文)",
-          "description": null,
+          "description": "BrambleXu/knowledge-graph-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -909,7 +909,7 @@
             "open_issues": 377,
             "owner": "BrambleXu",
             "repo": "knowledge-graph-learning",
-            "stars": 778,
+            "stars": 777,
             "topics": [
               "knowledge-graph",
               "knowledge-graph-embeddings",
@@ -921,7 +921,7 @@
         {
           "node_type": "item",
           "title": "A KBQA system based on DBpedia",
-          "description": null,
+          "description": "pkumod/gAnswer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -947,7 +947,7 @@
         {
           "node_type": "item",
           "title": "NLPCC-MH 中文多跳问答数据集",
-          "description": null,
+          "description": "wavewangyue/NLPCC-MH",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:27:22.158Z",
+    "last_updated": "2026-10-03T04:55:11.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
