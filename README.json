@@ -771,7 +771,7 @@
             "open_issues": 32,
             "owner": "thunlp",
             "repo": "OpenKE",
-            "stars": 4054,
+            "stars": 4056,
             "topics": [
               "knowledge-embedding"
             ]
@@ -831,7 +831,7 @@
             "open_issues": 399,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10787,
+            "stars": 10788,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -909,7 +909,7 @@
             "open_issues": 377,
             "owner": "BrambleXu",
             "repo": "knowledge-graph-learning",
-            "stars": 777,
+            "stars": 778,
             "topics": [
               "knowledge-graph",
               "knowledge-graph-embeddings",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:55:11.590Z",
+    "last_updated": "2026-10-03T23:45:48.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",

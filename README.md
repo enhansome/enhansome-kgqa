@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,159 | 🐛 107 | 📅 2026-09-02
 
 TO BE CONTINUED :soon:
 
@@ -153,17 +153,17 @@ TO BE CONTINUED :soon:
 
 :star:  [**OpenKG: A community of Chinese KGQA**](http://openkg.cn/home)
 
-:star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE) ⭐ 4,054 | 🐛 32 | 🌐 Python | 📅 2024-01-10
+:star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE) ⭐ 4,056 | 🐛 32 | 🌐 Python | 📅 2024-01-10
 
 * [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,832 | 🐛 305 | 🌐 Python | 📅 2024-01-23
 
-* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,787 | 🐛 399 | 🌐 Python | 📅 2026-04-14
+* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,788 | 🐛 399 | 🌐 Python | 📅 2026-04-14
 
 * [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/) ⭐ 4,467 | 🐛 19 | 🌐 Python | 📅 2024-01-10, [NER paper](https://github.com/thunlp/NREPapers) ⭐ 1,021 | 🐛 2 | 🌐 TeX | 📅 2020-11-10
 
 * [DeepDive: a system to extract value from dark data](https://github.com/HazyResearch/deepdive) ⭐ 1,978 | 🐛 81 | 🌐 Shell | 📅 2022-06-09, [Homepage](http://deepdive.stanford.edu/), [Papers](https://github.com/HazyResearch/deepdive/blob/master/doc/papers.md) ⭐ 1,978 | 🐛 81 | 🌐 Shell | 📅 2022-06-09
 
-* [Useful tools & lecture related to data science(中文)](https://github.com/BrambleXu/knowledge-graph-learning/issues/131) ⭐ 777 | 🐛 377 | 📅 2026-08-26
+* [Useful tools & lecture related to data science(中文)](https://github.com/BrambleXu/knowledge-graph-learning/issues/131) ⭐ 778 | 🐛 377 | 📅 2026-08-26
 
 * [A KBQA system based on DBpedia](https://github.com/pkumod/gAnswer) ⭐ 379 | 🐛 38 | 🌐 Java | 📅 2022-07-20
 
