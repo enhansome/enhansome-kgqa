@@ -463,7 +463,7 @@
             "open_issues": 0,
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1797,
+            "stars": 1798,
             "topics": [
               "commonsense",
               "cross-modal",
@@ -502,7 +502,7 @@
             "open_issues": 15,
             "owner": "SimmerChan",
             "repo": "KG-demo-for-movie",
-            "stars": 1331,
+            "stars": 1332,
             "topics": [
               "knowledge-graph",
               "question-answering"
@@ -657,7 +657,7 @@
             "open_issues": 15,
             "owner": "SimmerChan",
             "repo": "KG-demo-for-movie",
-            "stars": 1331,
+            "stars": 1332,
             "topics": [
               "knowledge-graph",
               "question-answering"
@@ -794,7 +794,7 @@
             "open_issues": 304,
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12831,
+            "stars": 12830,
             "topics": [
               "bert",
               "bert-as-service",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:57:46.200Z",
+    "last_updated": "2026-10-09T01:11:48.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",

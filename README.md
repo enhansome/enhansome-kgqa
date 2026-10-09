@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,114 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,347 | 🐛 106 | 📅 2026-09-02
 
 TO BE CONTINUED :soon:
 
@@ -109,9 +109,9 @@ TO BE CONTINUED :soon:
 
 ## Open source projects
 
-:star:  [**Awesome knowledge graph**](https://github.com/shaoxiongji/awesome-knowledge-graph) ⭐ 1,797 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-07
+:star:  [**Awesome knowledge graph**](https://github.com/shaoxiongji/awesome-knowledge-graph) ⭐ 1,798 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-07
 
-:star:  [**A demo of KGQA for movies**](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,331 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python2.7 jena)
+:star:  [**A demo of KGQA for movies**](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,332 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python2.7 jena)
 
 :star:  [**A trial of kbqa based on bert for NLPCC2016/2017 Task 5**](https://github.com/WenRichard/KBQA-BERT) ⭐ 1,469 | 🐛 21 | 🌐 Python | 📅 2021-12-16(BERT python3 tensorflow)
 
@@ -123,7 +123,7 @@ TO BE CONTINUED :soon:
 
 * [KGQA for The Stones](https://github.com/chizhu/KGQA_HLM) ⭐ 1,339 | 🐛 15 | 🌐 HTML | 📅 2019-04-23(neo4j)
 
-* [A tutorial and implement of disease centered Medical knowledge graph and qa system based on it](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,331 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python3 neo4j)
+* [A tutorial and implement of disease centered Medical knowledge graph and qa system based on it](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,332 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python3 neo4j)
 
 * [Recommend system for douban based on KG](https://github.com/mattzheng/DouBanRecommend) ⭐ 267 | 🐛 5 | 🌐 Python | 📅 2021-01-30
 
@@ -155,7 +155,7 @@ TO BE CONTINUED :soon:
 
 :star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE) ⭐ 4,056 | 🐛 32 | 🌐 Python | 📅 2024-01-10
 
-* [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,831 | 🐛 304 | 🌐 Python | 📅 2024-01-23
+* [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,830 | 🐛 304 | 🌐 Python | 📅 2024-01-23
 
 * [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,792 | 🐛 399 | 🌐 Python | 📅 2026-04-14
 
@@ -183,4 +183,4 @@ TO BE CONTINUED :soon:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
