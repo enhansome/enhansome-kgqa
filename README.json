@@ -633,7 +633,7 @@
             "open_issues": 15,
             "owner": "chizhu",
             "repo": "KGQA_HLM",
-            "stars": 1339,
+            "stars": 1340,
             "topics": [
               "kgqa",
               "nlp"
@@ -831,7 +831,7 @@
             "open_issues": 399,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10793,
+            "stars": 10795,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -909,7 +909,7 @@
             "open_issues": 377,
             "owner": "BrambleXu",
             "repo": "knowledge-graph-learning",
-            "stars": 778,
+            "stars": 780,
             "topics": [
               "knowledge-graph",
               "knowledge-graph-embeddings",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T00:30:29.021Z",
+    "last_updated": "2026-10-13T02:33:27.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
