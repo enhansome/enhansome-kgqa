@@ -130,7 +130,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2018-07-01T08:55:43Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "zmtkeke",
                 "repo": "IRN",
                 "stars": 80,
@@ -577,7 +577,7 @@
             "open_issues": 63,
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4400,
+            "stars": 4401,
             "topics": [
               "knowledge-graph",
               "named-entity-recognition",
@@ -794,7 +794,7 @@
             "open_issues": 304,
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12830,
+            "stars": 12832,
             "topics": [
               "bert",
               "bert-as-service",
@@ -831,7 +831,7 @@
             "open_issues": 399,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10795,
+            "stars": 10798,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -865,7 +865,7 @@
             "open_issues": 19,
             "owner": "thunlp",
             "repo": "OpenNRE",
-            "stars": 4467,
+            "stars": 4468,
             "topics": [
               "relation-extraction"
             ]
@@ -888,7 +888,7 @@
             "open_issues": 81,
             "owner": "HazyResearch",
             "repo": "deepdive",
-            "stars": 1978,
+            "stars": 1979,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
@@ -909,7 +909,7 @@
             "open_issues": 377,
             "owner": "BrambleXu",
             "repo": "knowledge-graph-learning",
-            "stars": 780,
+            "stars": 781,
             "topics": [
               "knowledge-graph",
               "knowledge-graph-embeddings",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:33:27.722Z",
+    "last_updated": "2026-10-14T00:16:28.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
