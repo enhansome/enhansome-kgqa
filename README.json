@@ -603,7 +603,7 @@
             "open_issues": 19,
             "owner": "lemonhu",
             "repo": "stock-knowledge-graph",
-            "stars": 2181,
+            "stars": 2180,
             "topics": [
               "course-project",
               "cypher",
@@ -681,7 +681,7 @@
             "open_issues": 5,
             "owner": "mattzheng",
             "repo": "DouBanRecommend",
-            "stars": 267,
+            "stars": 266,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
@@ -794,7 +794,7 @@
             "open_issues": 304,
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12832,
+            "stars": 12831,
             "topics": [
               "bert",
               "bert-as-service",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:40:07.866Z",
+    "last_updated": "2026-10-16T23:33:23.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",

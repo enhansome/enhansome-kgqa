@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,501 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,995 | 🐛 105 | 📅 2026-09-02
 
 TO BE CONTINUED :soon:
 
@@ -119,13 +119,13 @@ TO BE CONTINUED :soon:
 
 * [Agricultural Knowledge Graph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) ⭐ 4,401 | 🐛 63 | 🌐 Python | 📅 2025-02-11(python3 neo4j)
 
-* [Stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) ⭐ 2,181 | 🐛 19 | 🌐 Python | 📅 2020-07-23(Neo4j)
+* [Stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) ⭐ 2,180 | 🐛 19 | 🌐 Python | 📅 2020-07-23(Neo4j)
 
 * [KGQA for The Stones](https://github.com/chizhu/KGQA_HLM) ⭐ 1,340 | 🐛 15 | 🌐 HTML | 📅 2019-04-23(neo4j)
 
 * [A tutorial and implement of disease centered Medical knowledge graph and qa system based on it](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,332 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python3 neo4j)
 
-* [Recommend system for douban based on KG](https://github.com/mattzheng/DouBanRecommend) ⭐ 267 | 🐛 5 | 🌐 Python | 📅 2021-01-30
+* [Recommend system for douban based on KG](https://github.com/mattzheng/DouBanRecommend) ⭐ 266 | 🐛 5 | 🌐 Python | 📅 2021-01-30
 
 * [KGQA for Jay Zhou's songs](https://github.com/zhangtao-seu/Jay_KG) ⭐ 141 | 🐛 1 | 🌐 Python | 📅 2019-03-12(python3 apache-jena-fuseki)
 
@@ -155,7 +155,7 @@ TO BE CONTINUED :soon:
 
 :star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE) ⭐ 4,055 | 🐛 32 | 🌐 Python | 📅 2024-01-10
 
-* [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,832 | 🐛 304 | 🌐 Python | 📅 2024-01-23
+* [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,831 | 🐛 304 | 🌐 Python | 📅 2024-01-23
 
 * [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,799 | 🐛 399 | 🌐 Python | 📅 2026-04-14
 
@@ -183,4 +183,4 @@ TO BE CONTINUED :soon:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
