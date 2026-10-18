@@ -463,7 +463,7 @@
             "open_issues": 1,
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1799,
+            "stars": 1800,
             "topics": [
               "commonsense",
               "cross-modal",
@@ -633,7 +633,7 @@
             "open_issues": 15,
             "owner": "chizhu",
             "repo": "KGQA_HLM",
-            "stars": 1339,
+            "stars": 1340,
             "topics": [
               "kgqa",
               "nlp"
@@ -771,7 +771,7 @@
             "open_issues": 32,
             "owner": "thunlp",
             "repo": "OpenKE",
-            "stars": 4055,
+            "stars": 4056,
             "topics": [
               "knowledge-embedding"
             ]
@@ -831,7 +831,7 @@
             "open_issues": 399,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10800,
+            "stars": 10802,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:06:03.475Z",
+    "last_updated": "2026-10-18T23:08:08.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
