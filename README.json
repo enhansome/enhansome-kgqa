@@ -502,7 +502,7 @@
             "open_issues": 15,
             "owner": "SimmerChan",
             "repo": "KG-demo-for-movie",
-            "stars": 1332,
+            "stars": 1331,
             "topics": [
               "knowledge-graph",
               "question-answering"
@@ -633,7 +633,7 @@
             "open_issues": 15,
             "owner": "chizhu",
             "repo": "KGQA_HLM",
-            "stars": 1341,
+            "stars": 1340,
             "topics": [
               "kgqa",
               "nlp"
@@ -657,7 +657,7 @@
             "open_issues": 15,
             "owner": "SimmerChan",
             "repo": "KG-demo-for-movie",
-            "stars": 1332,
+            "stars": 1331,
             "topics": [
               "knowledge-graph",
               "question-answering"
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T00:18:11.146Z",
+    "last_updated": "2026-10-20T23:50:39.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",

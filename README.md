@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,480 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,931 | 🐛 105 | 📅 2026-09-02
 
 TO BE CONTINUED :soon:
 
@@ -111,7 +111,7 @@ TO BE CONTINUED :soon:
 
 :star:  [**Awesome knowledge graph**](https://github.com/shaoxiongji/awesome-knowledge-graph) ⭐ 1,801 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-07
 
-:star:  [**A demo of KGQA for movies**](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,332 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python2.7 jena)
+:star:  [**A demo of KGQA for movies**](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,331 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python2.7 jena)
 
 :star:  [**A trial of kbqa based on bert for NLPCC2016/2017 Task 5**](https://github.com/WenRichard/KBQA-BERT) ⭐ 1,469 | 🐛 21 | 🌐 Python | 📅 2021-12-16(BERT python3 tensorflow)
 
@@ -121,9 +121,9 @@ TO BE CONTINUED :soon:
 
 * [Stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) ⭐ 2,180 | 🐛 19 | 🌐 Python | 📅 2020-07-23(Neo4j)
 
-* [KGQA for The Stones](https://github.com/chizhu/KGQA_HLM) ⭐ 1,341 | 🐛 15 | 🌐 HTML | 📅 2019-04-23(neo4j)
+* [KGQA for The Stones](https://github.com/chizhu/KGQA_HLM) ⭐ 1,340 | 🐛 15 | 🌐 HTML | 📅 2019-04-23(neo4j)
 
-* [A tutorial and implement of disease centered Medical knowledge graph and qa system based on it](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,332 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python3 neo4j)
+* [A tutorial and implement of disease centered Medical knowledge graph and qa system based on it](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,331 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python3 neo4j)
 
 * [Recommend system for douban based on KG](https://github.com/mattzheng/DouBanRecommend) ⭐ 266 | 🐛 5 | 🌐 Python | 📅 2021-01-30
 
