@@ -577,7 +577,7 @@
             "open_issues": 63,
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4402,
+            "stars": 4400,
             "topics": [
               "knowledge-graph",
               "named-entity-recognition",
@@ -771,7 +771,7 @@
             "open_issues": 32,
             "owner": "thunlp",
             "repo": "OpenKE",
-            "stars": 4057,
+            "stars": 4058,
             "topics": [
               "knowledge-embedding"
             ]
@@ -794,7 +794,7 @@
             "open_issues": 304,
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12832,
+            "stars": 12831,
             "topics": [
               "bert",
               "bert-as-service",
@@ -831,7 +831,7 @@
             "open_issues": 399,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10803,
+            "stars": 10801,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -865,7 +865,7 @@
             "open_issues": 19,
             "owner": "thunlp",
             "repo": "OpenNRE",
-            "stars": 4468,
+            "stars": 4469,
             "topics": [
               "relation-extraction"
             ]
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:50:39.118Z",
+    "last_updated": "2026-10-21T23:59:14.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
