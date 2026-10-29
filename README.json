@@ -112,7 +112,7 @@
                 "open_issues": 10,
                 "owner": "haitian-sun",
                 "repo": "GraftNet",
-                "stars": 270,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
@@ -577,7 +577,7 @@
             "open_issues": 63,
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4400,
+            "stars": 4401,
             "topics": [
               "knowledge-graph",
               "named-entity-recognition",
@@ -831,7 +831,7 @@
             "open_issues": 399,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10804,
+            "stars": 10805,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T00:29:08.093Z",
+    "last_updated": "2026-10-29T00:52:37.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
