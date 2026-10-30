@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,323 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,867 | 🐛 105 | 📅 2026-09-02
 
 TO BE CONTINUED :soon:
 
@@ -66,7 +66,7 @@ TO BE CONTINUED :soon:
 
 ### Methods based on semanic parsing
 
-:star: **ACL 2015**-[**Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base**](https://www.microsoft.com/en-us/research/publication/semantic-parsing-via-staged-query-graph-generation-question-answering-with-knowledge-base/):smile:[\[code\]](https://github.com/scottyih/STAGG) ⭐ 111 | 🐛 1 | 🌐 Batchfile | 📅 2016-08-26
+:star: **ACL 2015**-[**Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base**](https://www.microsoft.com/en-us/research/publication/semantic-parsing-via-staged-query-graph-generation-question-answering-with-knowledge-base/):smile:[\[code\]](https://github.com/scottyih/STAGG) ⭐ 112 | 🐛 1 | 🌐 Batchfile | 📅 2016-08-26
 
 * **COLING 2018**-[Modeling Semantics with Gated Graph Neural Networks for Knowledge Base Question Answering](https://www.aclweb.org/anthology/C18-1280.pdf):smile:[\[code\]](https://github.com/UKPLab/coling2018-graph-neural-networks-question-answering) ⭐ 175 | 🐛 9 | 🌐 Python | 📅 2020-02-12
 
@@ -117,7 +117,7 @@ TO BE CONTINUED :soon:
 
 :star:  [**CCKS2019 CKBQA评测获得第四名解决方案**](https://github.com/duterscmy/ccks2019-ckbqa-4th-codes) ⭐ 477 | 🐛 30 | 🌐 Python | 📅 2021-04-05(BERT python3 keras-bert)
 
-* [Agricultural Knowledge Graph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) ⭐ 4,401 | 🐛 63 | 🌐 Python | 📅 2025-02-11(python3 neo4j)
+* [Agricultural Knowledge Graph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) ⭐ 4,403 | 🐛 63 | 🌐 Python | 📅 2025-02-11(python3 neo4j)
 
 * [Stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) ⭐ 2,181 | 🐛 19 | 🌐 Python | 📅 2020-07-23(Neo4j)
 
@@ -155,15 +155,15 @@ TO BE CONTINUED :soon:
 
 :star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE) ⭐ 4,058 | 🐛 32 | 🌐 Python | 📅 2024-01-10
 
-* [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,831 | 🐛 304 | 🌐 Python | 📅 2024-01-23
+* [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,832 | 🐛 304 | 🌐 Python | 📅 2024-01-23
 
-* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,805 | 🐛 399 | 🌐 Python | 📅 2026-04-14
+* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,806 | 🐛 399 | 🌐 Python | 📅 2026-04-14
 
 * [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/) ⭐ 4,469 | 🐛 19 | 🌐 Python | 📅 2024-01-10, [NER paper](https://github.com/thunlp/NREPapers) ⭐ 1,021 | 🐛 2 | 🌐 TeX | 📅 2020-11-10
 
 * [DeepDive: a system to extract value from dark data](https://github.com/HazyResearch/deepdive) ⭐ 1,979 | 🐛 81 | 🌐 Shell | 📅 2022-06-09, [Homepage](http://deepdive.stanford.edu/), [Papers](https://github.com/HazyResearch/deepdive/blob/master/doc/papers.md) ⭐ 1,979 | 🐛 81 | 🌐 Shell | 📅 2022-06-09
 
-* [Useful tools & lecture related to data science(中文)](https://github.com/BrambleXu/knowledge-graph-learning/issues/131) ⭐ 781 | 🐛 377 | 📅 2026-08-26
+* [Useful tools & lecture related to data science(中文)](https://github.com/BrambleXu/knowledge-graph-learning/issues/131) ⭐ 782 | 🐛 377 | 📅 2026-08-26
 
 * [A KBQA system based on DBpedia](https://github.com/pkumod/gAnswer) ⭐ 379 | 🐛 38 | 🌐 Java | 📅 2022-07-20
 
@@ -183,4 +183,4 @@ TO BE CONTINUED :soon:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._

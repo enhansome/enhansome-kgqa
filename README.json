@@ -209,7 +209,7 @@
                 "open_issues": 1,
                 "owner": "scottyih",
                 "repo": "STAGG",
-                "stars": 111,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:21:54.845Z"
@@ -577,7 +577,7 @@
             "open_issues": 63,
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4401,
+            "stars": 4403,
             "topics": [
               "knowledge-graph",
               "named-entity-recognition",
@@ -794,7 +794,7 @@
             "open_issues": 304,
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12831,
+            "stars": 12832,
             "topics": [
               "bert",
               "bert-as-service",
@@ -831,7 +831,7 @@
             "open_issues": 399,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10805,
+            "stars": 10806,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -909,7 +909,7 @@
             "open_issues": 377,
             "owner": "BrambleXu",
             "repo": "knowledge-graph-learning",
-            "stars": 781,
+            "stars": 782,
             "topics": [
               "knowledge-graph",
               "knowledge-graph-embeddings",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T00:52:37.952Z",
+    "last_updated": "2026-10-30T00:56:39.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
