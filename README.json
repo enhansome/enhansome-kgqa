@@ -502,7 +502,7 @@
             "open_issues": 15,
             "owner": "SimmerChan",
             "repo": "KG-demo-for-movie",
-            "stars": 1331,
+            "stars": 1333,
             "topics": [
               "knowledge-graph",
               "question-answering"
@@ -526,7 +526,7 @@
             "open_issues": 21,
             "owner": "WenRichard",
             "repo": "KBQA-BERT",
-            "stars": 1469,
+            "stars": 1470,
             "topics": [
               "bert",
               "knowledge-graph",
@@ -633,7 +633,7 @@
             "open_issues": 15,
             "owner": "chizhu",
             "repo": "KGQA_HLM",
-            "stars": 1342,
+            "stars": 1344,
             "topics": [
               "kgqa",
               "nlp"
@@ -657,7 +657,7 @@
             "open_issues": 15,
             "owner": "SimmerChan",
             "repo": "KG-demo-for-movie",
-            "stars": 1331,
+            "stars": 1333,
             "topics": [
               "knowledge-graph",
               "question-answering"
@@ -831,7 +831,7 @@
             "open_issues": 399,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10806,
+            "stars": 10809,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T00:56:39.121Z",
+    "last_updated": "2026-10-31T00:44:22.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
