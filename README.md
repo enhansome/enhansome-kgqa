@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,520 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 528,029 | 🐛 105 | 📅 2026-09-02
 
 TO BE CONTINUED :soon:
 
@@ -117,7 +117,7 @@ TO BE CONTINUED :soon:
 
 :star:  [**CCKS2019 CKBQA评测获得第四名解决方案**](https://github.com/duterscmy/ccks2019-ckbqa-4th-codes) ⭐ 477 | 🐛 30 | 🌐 Python | 📅 2021-04-05(BERT python3 keras-bert)
 
-* [Agricultural Knowledge Graph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) ⭐ 4,403 | 🐛 63 | 🌐 Python | 📅 2025-02-11(python3 neo4j)
+* [Agricultural Knowledge Graph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) ⭐ 4,404 | 🐛 63 | 🌐 Python | 📅 2025-02-11(python3 neo4j)
 
 * [Stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) ⭐ 2,181 | 🐛 19 | 🌐 Python | 📅 2020-07-23(Neo4j)
 
@@ -125,9 +125,9 @@ TO BE CONTINUED :soon:
 
 * [A tutorial and implement of disease centered Medical knowledge graph and qa system based on it](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,333 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python3 neo4j)
 
-* [Recommend system for douban based on KG](https://github.com/mattzheng/DouBanRecommend) ⭐ 266 | 🐛 5 | 🌐 Python | 📅 2021-01-30
+* [Recommend system for douban based on KG](https://github.com/mattzheng/DouBanRecommend) ⭐ 265 | 🐛 5 | 🌐 Python | 📅 2021-01-30
 
-* [KGQA for Jay Zhou's songs](https://github.com/zhangtao-seu/Jay_KG) ⭐ 141 | 🐛 1 | 🌐 Python | 📅 2019-03-12(python3 apache-jena-fuseki)
+* [KGQA for Jay Zhou's songs](https://github.com/zhangtao-seu/Jay_KG) ⭐ 140 | 🐛 1 | 🌐 Python | 📅 2019-03-12(python3 apache-jena-fuseki)
 
 * [Entity-Linking](https://github.com/songjs1993/Entity-Linking) ⭐ 72 | 🐛 0 | 🌐 Python | 📅 2019-08-17(Solr)
 
@@ -157,7 +157,7 @@ TO BE CONTINUED :soon:
 
 * [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,832 | 🐛 304 | 🌐 Python | 📅 2024-01-23
 
-* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,809 | 🐛 399 | 🌐 Python | 📅 2026-04-14
+* [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,809 | 🐛 400 | 🌐 Python | 📅 2026-04-14
 
 * [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/) ⭐ 4,469 | 🐛 19 | 🌐 Python | 📅 2024-01-10, [NER paper](https://github.com/thunlp/NREPapers) ⭐ 1,021 | 🐛 2 | 🌐 TeX | 📅 2020-11-10
 
@@ -183,4 +183,4 @@ TO BE CONTINUED :soon:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

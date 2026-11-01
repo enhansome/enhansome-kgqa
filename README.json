@@ -577,7 +577,7 @@
             "open_issues": 63,
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4403,
+            "stars": 4404,
             "topics": [
               "knowledge-graph",
               "named-entity-recognition",
@@ -681,7 +681,7 @@
             "open_issues": 5,
             "owner": "mattzheng",
             "repo": "DouBanRecommend",
-            "stars": 266,
+            "stars": 265,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
@@ -702,7 +702,7 @@
             "open_issues": 1,
             "owner": "zhangtao-seu",
             "repo": "Jay_KG",
-            "stars": 141,
+            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:54.845Z"
@@ -828,7 +828,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-04-14T21:16:25Z",
-            "open_issues": 399,
+            "open_issues": 400,
             "owner": "doccano",
             "repo": "doccano",
             "stars": 10809,
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T00:44:22.361Z",
+    "last_updated": "2026-11-01T00:05:38.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
