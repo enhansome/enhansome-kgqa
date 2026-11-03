@@ -463,7 +463,7 @@
             "open_issues": 1,
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1802,
+            "stars": 1801,
             "topics": [
               "commonsense",
               "cross-modal",
@@ -577,7 +577,7 @@
             "open_issues": 63,
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4404,
+            "stars": 4406,
             "topics": [
               "knowledge-graph",
               "named-entity-recognition",
@@ -831,7 +831,7 @@
             "open_issues": 400,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10808,
+            "stars": 10806,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T00:39:01.613Z",
+    "last_updated": "2026-11-03T02:53:18.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
