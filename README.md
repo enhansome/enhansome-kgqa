@@ -1,6 +1,6 @@
 # Awesome-knowledge-graph-question-answering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,353 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 531,002 | 🐛 103 | 📅 2026-09-02
 
 TO BE CONTINUED :soon:
 
@@ -109,7 +109,7 @@ TO BE CONTINUED :soon:
 
 ## Open source projects
 
-:star:  [**Awesome knowledge graph**](https://github.com/shaoxiongji/awesome-knowledge-graph) ⭐ 1,801 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-07
+:star:  [**Awesome knowledge graph**](https://github.com/shaoxiongji/awesome-knowledge-graph) ⭐ 1,802 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-07
 
 :star:  [**A demo of KGQA for movies**](https://github.com/SimmerChan/KG-demo-for-movie) ⭐ 1,333 | 🐛 15 | 🌐 Python | 📅 2022-08-06 (python2.7 jena)
 
@@ -155,7 +155,7 @@ TO BE CONTINUED :soon:
 
 :star:  [**OpenKE: An Open-source Framework for Knowledge Embedding**](https://github.com/thunlp/OpenKE) ⭐ 4,058 | 🐛 32 | 🌐 Python | 📅 2024-01-10
 
-* [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,833 | 🐛 304 | 🌐 Python | 📅 2024-01-23
+* [Mapping a variable-length sentence to a fixed-length vector using BERT model ](https://github.com/hanxiao/bert-as-service) ⭐ 12,834 | 🐛 304 | 🌐 Python | 📅 2024-01-23
 
 * [Annotation tool: doccano](https://github.com/chakki-works/doccano) ⭐ 10,805 | 🐛 400 | 🌐 Python | 📅 2026-04-14
 
@@ -183,4 +183,4 @@ TO BE CONTINUED :soon:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
