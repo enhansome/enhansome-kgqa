@@ -552,7 +552,7 @@
             "open_issues": 30,
             "owner": "duterscmy",
             "repo": "ccks2019-ckbqa-4th-codes",
-            "stars": 477,
+            "stars": 478,
             "topics": [
               "kbqa",
               "python",
@@ -577,7 +577,7 @@
             "open_issues": 63,
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4407,
+            "stars": 4408,
             "topics": [
               "knowledge-graph",
               "named-entity-recognition",
@@ -771,7 +771,7 @@
             "open_issues": 32,
             "owner": "thunlp",
             "repo": "OpenKE",
-            "stars": 4059,
+            "stars": 4058,
             "topics": [
               "knowledge-embedding"
             ]
@@ -794,7 +794,7 @@
             "open_issues": 304,
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12837,
+            "stars": 12840,
             "topics": [
               "bert",
               "bert-as-service",
@@ -831,7 +831,7 @@
             "open_issues": 400,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10806,
+            "stars": 10808,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:31:18.074Z",
+    "last_updated": "2026-11-11T01:13:23.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
