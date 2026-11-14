@@ -771,7 +771,7 @@
             "open_issues": 32,
             "owner": "thunlp",
             "repo": "OpenKE",
-            "stars": 4059,
+            "stars": 4060,
             "topics": [
               "knowledge-embedding"
             ]
@@ -828,10 +828,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-04-14T21:16:25Z",
-            "open_issues": 400,
+            "open_issues": 401,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10808,
+            "stars": 10807,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -865,7 +865,7 @@
             "open_issues": 19,
             "owner": "thunlp",
             "repo": "OpenNRE",
-            "stars": 4466,
+            "stars": 4465,
             "topics": [
               "relation-extraction"
             ]
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T01:47:57.083Z",
+    "last_updated": "2026-11-14T01:25:41.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
