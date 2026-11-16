@@ -577,7 +577,7 @@
             "open_issues": 63,
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4408,
+            "stars": 4407,
             "topics": [
               "knowledge-graph",
               "named-entity-recognition",
@@ -771,7 +771,7 @@
             "open_issues": 32,
             "owner": "thunlp",
             "repo": "OpenKE",
-            "stars": 4060,
+            "stars": 4061,
             "topics": [
               "knowledge-embedding"
             ]
@@ -831,7 +831,7 @@
             "open_issues": 401,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10807,
+            "stars": 10808,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T01:00:01.964Z",
+    "last_updated": "2026-11-16T00:58:53.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
