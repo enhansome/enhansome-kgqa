@@ -279,7 +279,7 @@
                 "open_issues": 0,
                 "owner": "LiberAI",
                 "repo": "NSpM",
-                "stars": 226,
+                "stars": 227,
                 "topics": [
                   "deep-learning",
                   "kbqa",
@@ -603,7 +603,7 @@
             "open_issues": 19,
             "owner": "lemonhu",
             "repo": "stock-knowledge-graph",
-            "stars": 2184,
+            "stars": 2186,
             "topics": [
               "course-project",
               "cypher",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T00:58:53.534Z",
+    "last_updated": "2026-11-17T03:47:44.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
