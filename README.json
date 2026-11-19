@@ -463,7 +463,7 @@
             "open_issues": 1,
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1805,
+            "stars": 1806,
             "topics": [
               "commonsense",
               "cross-modal",
@@ -577,7 +577,7 @@
             "open_issues": 63,
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4406,
+            "stars": 4408,
             "topics": [
               "knowledge-graph",
               "named-entity-recognition",
@@ -603,7 +603,7 @@
             "open_issues": 19,
             "owner": "lemonhu",
             "repo": "stock-knowledge-graph",
-            "stars": 2186,
+            "stars": 2187,
             "topics": [
               "course-project",
               "cypher",
@@ -831,7 +831,7 @@
             "open_issues": 400,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10810,
+            "stars": 10811,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -865,7 +865,7 @@
             "open_issues": 19,
             "owner": "thunlp",
             "repo": "OpenNRE",
-            "stars": 4466,
+            "stars": 4467,
             "topics": [
               "relation-extraction"
             ]
@@ -909,7 +909,7 @@
             "open_issues": 377,
             "owner": "BrambleXu",
             "repo": "knowledge-graph-learning",
-            "stars": 782,
+            "stars": 783,
             "topics": [
               "knowledge-graph",
               "knowledge-graph-embeddings",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T02:52:44.259Z",
+    "last_updated": "2026-11-19T02:31:09.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
