@@ -279,7 +279,7 @@
                 "open_issues": 0,
                 "owner": "LiberAI",
                 "repo": "NSpM",
-                "stars": 227,
+                "stars": 226,
                 "topics": [
                   "deep-learning",
                   "kbqa",
@@ -771,7 +771,7 @@
             "open_issues": 32,
             "owner": "thunlp",
             "repo": "OpenKE",
-            "stars": 4061,
+            "stars": 4059,
             "topics": [
               "knowledge-embedding"
             ]
@@ -831,7 +831,7 @@
             "open_issues": 402,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10817,
+            "stars": 10818,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:36:53.364Z",
+    "last_updated": "2026-11-28T03:16:24.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some materials of knowledge graph question answering",
